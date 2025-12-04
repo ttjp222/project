@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
 
     float moveX;
     float moveY;
+    float lastMoveX = 0;
+    float lastMoveY = -1;  // 初期値は下向き
 
     void Start()
     {
@@ -23,19 +25,26 @@ public class PlayerMovement : MonoBehaviour
         moveX = Input.GetAxisRaw("Horizontal");
         moveY = Input.GetAxisRaw("Vertical");
 
-        // Blend Tree にパラメータを送る
-        anim.SetFloat("MoveX", moveX);
-        anim.SetFloat("MoveY", moveY);
+        // 移動している時は方向を記憶
+        if (moveX != 0 || moveY != 0)
+        {
+            lastMoveX = moveX;
+            lastMoveY = moveY;
+        }
+
+        // Blend Treeには常に最後の方向を送る
+        anim.SetFloat("MoveX", lastMoveX);
+        anim.SetFloat("MoveY", lastMoveY);
     }
 
     void LateUpdate()
     {
-        // 左右の向きを制御（Animatorの後に実行）
-        if (moveX < 0)
+        // 左右の向きを保持
+        if (lastMoveX < 0)
         {
             sr.flipX = true;
         }
-        else if (moveX > 0)
+        else if (lastMoveX > 0)
         {
             sr.flipX = false;
         }
