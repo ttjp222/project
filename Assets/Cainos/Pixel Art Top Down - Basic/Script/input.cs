@@ -3,41 +3,58 @@ using UnityEngine;
 public class DestroyOnTextInput : MonoBehaviour
 {
     public string targetWord = "kiko";
-    public float detectionRange = 2f;  // 検出範囲
+    public float detectionRange = 2f;
     private string currentInput = "";
     private Transform player;
 
     void Start()
     {
-        // Playerを探す
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        GameObject playerObj = GameObject.FindGameObjectWithTag("Player");
+        if (playerObj != null)
+        {
+            player = playerObj.transform;
+            Debug.Log("Player見つかりました");
+        }
     }
 
     void Update()
     {
         if (player == null) return;
 
-        // プレイヤーとの距離を計算
         float distance = Vector2.Distance(transform.position, player.position);
         
-        // 範囲内にいる時だけ入力を受け付ける
-        if (distance <= detectionRange && Input.anyKeyDown)
+        if (distance <= detectionRange)
         {
-            foreach (char c in Input.inputString)
+            // K, I, O のキーを個別に検出
+            if (Input.GetKeyDown(KeyCode.K))
             {
-                currentInput += c;
+                currentInput += "k";
                 Debug.Log("現在の入力: " + currentInput);
-                
-                if (currentInput.Contains(targetWord))
+            }
+            if (Input.GetKeyDown(KeyCode.I))
+            {
+                currentInput += "i";
+                Debug.Log("現在の入力: " + currentInput);
+            }
+            if (Input.GetKeyDown(KeyCode.O))
+            {
+                currentInput += "o";
+                Debug.Log("現在の入力: " + currentInput);
+            }
+            
+            // Enterで確定
+            if (Input.GetKeyDown(KeyCode.Return))
+            {
+                Debug.Log("入力確定: " + currentInput);
+                if (currentInput == targetWord)
                 {
-                    Debug.Log("一致！オブジェクトを削除");
+                    Debug.Log("一致！削除");
                     Destroy(gameObject);
                 }
+                currentInput = "";
             }
         }
-        
-        // 範囲外に出たら入力をリセット
-        if (distance > detectionRange)
+        else
         {
             currentInput = "";
         }
