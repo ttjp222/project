@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 72ae4d61eae2c4e43a299883d77bf48b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4019742963646354219
+    second: ST-Libry-I01_0
+  - first:
+      213: -1297326233368062698
+    second: ST-Libry-I01_1
+  - first:
+      213: -8162140325216241947
+    second: ST-Libry-I01_2
+  - first:
+      213: -1586851874447530360
+    second: ST-Libry-I01_3
+  - first:
+      213: -1687608862520041469
+    second: ST-Libry-I01_4
+  - first:
+      213: 5878966300594034235
+    second: ST-Libry-I01_5
+  - first:
+      213: 397525473041603290
+    second: ST-Libry-I01_6
+  - first:
+      213: -9190151297876088396
+    second: ST-Libry-I01_7
+  - first:
+      213: 6730991546403507282
+    second: ST-Libry-I01_8
+  - first:
+      213: 3802085537836565612
+    second: ST-Libry-I01_9
+  - first:
+      213: 2418165551441143617
+    second: ST-Libry-I01_10
+  - first:
+      213: -4041542221031613689
+    second: ST-Libry-I01_11
+  - first:
+      213: 3768179311372483480
+    second: ST-Libry-I01_12
+  - first:
+      213: 1843039187678342197
+    second: ST-Libry-I01_13
+  - first:
+      213: 6270329066171346969
+    second: ST-Libry-I01_14
+  - first:
+      213: 2497975718495792722
+    second: ST-Libry-I01_15
+  - first:
+      213: 1511553242884493420
+    second: ST-Libry-I01_16
+  - first:
+      213: -2496098597381834676
+    second: ST-Libry-I01_17
+  - first:
+      213: -7022349072368951574
+    second: ST-Libry-I01_18
+  - first:
+      213: 3696657933223669371
+    second: ST-Libry-I01_19
+  - first:
+      213: 4103869629055159406
+    second: ST-Libry-I01_20
+  - first:
+      213: 696826232013851235
+    second: ST-Libry-I01_21
+  - first:
+      213: -3101580588956151373
+    second: ST-Libry-I01_22
+  - first:
+      213: -2825349187773613121
+    second: ST-Libry-I01_23
+  - first:
+      213: -838031786374430787
+    second: ST-Libry-I01_24
+  - first:
+      213: 2010832740049425834
+    second: ST-Libry-I01_25
+  - first:
+      213: -6941824822542008132
+    second: ST-Libry-I01_26
+  - first:
+      213: 4660264387748695289
+    second: ST-Libry-I01_27
+  - first:
+      213: 8888218964215293511
+    second: ST-Libry-I01_28
+  - first:
+      213: -7793305198634358912
+    second: ST-Libry-I01_29
+  - first:
+      213: 7759414545753289647
+    second: ST-Libry-I01_30
+  - first:
+      213: 1805560142926769052
+    second: ST-Libry-I01_31
+  - first:
+      213: -745527422286813312
+    second: ST-Libry-I01_32
+  - first:
+      213: -3941673131805115621
+    second: ST-Libry-I01_33
+  - first:
+      213: -428726148853530147
+    second: ST-Libry-I01_34
+  - first:
+      213: 219467458945385563
+    second: ST-Libry-I01_35
+  - first:
+      213: -8231379063684309198
+    second: ST-Libry-I01_36
+  - first:
+      213: -4702358086994262884
+    second: ST-Libry-I01_37
+  - first:
+      213: 7320969811034073871
+    second: ST-Libry-I01_38
+  - first:
+      213: 577953712671141890
+    second: ST-Libry-I01_39
+  - first:
+      213: -4597765180941725329
+    second: ST-Libry-I01_40
+  - first:
+      213: -6717444596949463972
+    second: ST-Libry-I01_41
+  - first:
+      213: 4248808435786190518
+    second: ST-Libry-I01_42
+  - first:
+      213: 8677630683959024596
+    second: ST-Libry-I01_43
+  - first:
+      213: 1758357213157355101
+    second: ST-Libry-I01_44
+  - first:
+      213: 3294679695960037091
+    second: ST-Libry-I01_45
+  - first:
+      213: -113589528179114991
+    second: ST-Libry-I01_46
+  - first:
+      213: -8535160374787379682
+    second: ST-Libry-I01_47
+  - first:
+      213: -3983728704608479985
+    second: ST-Libry-I01_48
+  - first:
+      213: -5323199925910952747
+    second: ST-Libry-I01_49
+  - first:
+      213: 8037083118490198241
+    second: ST-Libry-I01_50
+  - first:
+      213: -6769186778696414172
+    second: ST-Libry-I01_51
+  - first:
+      213: -2559363042129156431
+    second: ST-Libry-I01_52
+  - first:
+      213: -2909237580435189290
+    second: ST-Libry-I01_53
+  - first:
+      213: -2379519177342774987
+    second: ST-Libry-I01_54
+  - first:
+      213: 1207053950774826716
+    second: ST-Libry-I01_55
+  - first:
+      213: -5954179664548363606
+    second: ST-Libry-I01_56
+  - first:
+      213: 1648891495682803652
+    second: ST-Libry-I01_57
+  - first:
+      213: 5421007175688408666
+    second: ST-Libry-I01_58
+  - first:
+      213: -5844858056079566761
+    second: ST-Libry-I01_59
+  - first:
+      213: -1268169930651308850
+    second: ST-Libry-I01_60
+  - first:
+      213: 4663098277043315370
+    second: ST-Libry-I01_61
+  - first:
+      213: 5944710732460127924
+    second: ST-Libry-I01_62
+  - first:
+      213: -5236574882395575747
+    second: ST-Libry-I01_63
+  - first:
+      213: -998727758170725997
+    second: ST-Libry-I01_64
+  - first:
+      213: 5795665379076350418
+    second: ST-Libry-I01_65
+  - first:
+      213: -2772599628984302837
+    second: ST-Libry-I01_66
+  - first:
+      213: -6412317500044060173
+    second: ST-Libry-I01_67
+  - first:
+      213: -3523025290725204974
+    second: ST-Libry-I01_68
+  - first:
+      213: -6693449142531786530
+    second: ST-Libry-I01_69
+  - first:
+      213: 6503591730242288663
+    second: ST-Libry-I01_70
+  - first:
+      213: -2021333353930364061
+    second: ST-Libry-I01_71
+  - first:
+      213: 2095866082678121664
+    second: ST-Libry-I01_72
+  - first:
+      213: 6831639907662139847
+    second: ST-Libry-I01_73
+  - first:
+      213: 6436825427408434354
+    second: ST-Libry-I01_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ST-Libry-I01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1268
+        width: 256
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23548c8deef8c730800000000000000
+      internalID: 4019742963646354219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 256
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151d4e0aa8fefde0800000000000000
+      internalID: -1297326233368062698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 97
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6389c7e904abe80800000000000000
+      internalID: -8162140325216241947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 998
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866460b0ae5af9e0800000000000000
+      internalID: -1586851874447530360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 991
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30021bd4ea86498e0800000000000000
+      internalID: -1687608862520041469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 991
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b365669c3b8469150800000000000000
+      internalID: 5878966300594034235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 991
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada50d1cf4b448500800000000000000
+      internalID: 397525473041603290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 995
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9200a0616067080800000000000000
+      internalID: -9190151297876088396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 995
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc98d2629496d50800000000000000
+      internalID: 6730991546403507282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 953
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64066007a8b3c430800000000000000
+      internalID: 3802085537836565612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 953
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1476cbdc1cc0f8120800000000000000
+      internalID: 2418165551441143617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 963
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bdaa253ce89e7c0800000000000000
+      internalID: -4041542221031613689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 963
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b35587e134b4430800000000000000
+      internalID: 3768179311372483480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 886
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c21b8506ac39910800000000000000
+      internalID: 1843039187678342197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 879
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91033f5601fa40750800000000000000
+      internalID: 6270329066171346969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 885
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e2e7e5ea79aa220800000000000000
+      internalID: 2497975718495792722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 873
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6058357aad1af410800000000000000
+      internalID: 1511553242884493420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4874b2fc831c5dd0800000000000000
+      internalID: -2496098597381834676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 874
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee97a489ba9b8e90800000000000000
+      internalID: -7022349072368951574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 865
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e2de5fdca2d4330800000000000000
+      internalID: 3696657933223669371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 834
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc8543fafd3f830800000000000000
+      internalID: 4103869629055159406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 831
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a0c5d14cf9ba900800000000000000
+      internalID: 696826232013851235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 813
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1950123e8f4f4d0800000000000000
+      internalID: -3101580588956151373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 832
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbb05012e75ac8d0800000000000000
+      internalID: -2825349187773613121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 802
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf7aa6c786be54f0800000000000000
+      internalID: -838031786374430787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 822
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa51f5529b9e7eb10800000000000000
+      internalID: 2010832740049425834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 802
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0056f6a1fa9af90800000000000000
+      internalID: -6941824822542008132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 802
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc0a2ff4c59ca040800000000000000
+      internalID: 4660264387748695289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 802
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74661ff5e0c495b70800000000000000
+      internalID: 8888218964215293511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 800
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087a139663e98d390800000000000000
+      internalID: -7793305198634358912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 800
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3bf901b6afeab60800000000000000
+      internalID: 7759414545753289647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 800
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be0cb3263ae0910800000000000000
+      internalID: 1805560142926769052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087284862ca57a5f0800000000000000
+      internalID: -745527422286813312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 753
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bfd06ab2d5c49c0800000000000000
+      internalID: -3941673131805115621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 753
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd10aafc6dbdc0af0800000000000000
+      internalID: -428726148853530147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 715
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54823abd74bb0300800000000000000
+      internalID: 219467458945385563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f52817a5444cd80800000000000000
+      internalID: -8231379063684309198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 721
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94850aeb3eddbeb0800000000000000
+      internalID: -4702358086994262884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 715
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b6b06414f499560800000000000000
+      internalID: 7320969811034073871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 714
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b16ce6dd450800800000000000000
+      internalID: 577953712671141890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 715
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f611f4d8de47130c0800000000000000
+      internalID: -4597765180941725329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 713
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cc578cab7d6c2a0800000000000000
+      internalID: -6717444596949463972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_42
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 721
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be08bdd2ccc6fa30800000000000000
+      internalID: 4248808435786190518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 713
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db586981232d6870800000000000000
+      internalID: 8677630683959024596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 710
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e6d76b190f66810800000000000000
+      internalID: 1758357213157355101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 675
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6d36e3abd09bd20800000000000000
+      internalID: 3294679695960037091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_46
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 675
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cfdaa0de27c6ef0800000000000000
+      internalID: -113589528179114991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 675
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eeecf3cd40d8980800000000000000
+      internalID: -8535160374787379682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_48
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 682
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05d84099d3f6b8c0800000000000000
+      internalID: -3983728704608479985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 651
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d421b3fed13026b0800000000000000
+      internalID: -5323199925910952747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 639
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0a5e39384798f60800000000000000
+      internalID: 8037083118490198241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c878d4d740f02a0800000000000000
+      internalID: -6769186778696414172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 639
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6e0ae8fd05b7cd0800000000000000
+      internalID: -2559363042129156431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 639
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d191fa95df40a7d0800000000000000
+      internalID: -2909237580435189290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 641
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531114a5aef3afed0800000000000000
+      internalID: -2379519177342774987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 641
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd65aa84c2150c010800000000000000
+      internalID: 1207053950774826716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa28db544218e5da0800000000000000
+      internalID: -5954179664548363606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 607
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70651441a02e610800000000000000
+      internalID: 1648891495682803652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 609
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e40c7fd494b3b40800000000000000
+      internalID: 5421007175688408666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 543
+        width: 129
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7581cccb094e2eea0800000000000000
+      internalID: -5844858056079566761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 613
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc62b8ca2e866ee0800000000000000
+      internalID: -1268169930651308850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 608
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa227e34d27a6b040800000000000000
+      internalID: 4663098277043315370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 609
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6fcbc2aeadf7250800000000000000
+      internalID: 5944710732460127924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a241793e2f357b0800000000000000
+      internalID: -5236574882395575747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 577
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39169ea356ec322f0800000000000000
+      internalID: -998727758170725997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 564
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d120ec94f65e6050800000000000000
+      internalID: 5795665379076350418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 564
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03c20ac35fb589d0800000000000000
+      internalID: -2772599628984302837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 488
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f95ad6253fd207a0800000000000000
+      internalID: -6412317500044060173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 545
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c5b93f923bb1fc0800000000000000
+      internalID: -3523025290725204974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 485
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ff31e7771c13a0800000000000000
+      internalID: -6693449142531786530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 459
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c724d9836614a50800000000000000
+      internalID: 6503591730242288663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 256
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36be45a2608c2f3e0800000000000000
+      internalID: -2021333353930364061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_72
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 447
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4a1da0913061d10800000000000000
+      internalID: 2095866082678121664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 193
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c19599ec4cdece50800000000000000
+      internalID: 6831639907662139847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Libry-I01_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 59
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4b1e95f92345950800000000000000
+      internalID: 6436825427408434354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ST-Libry-I01_0: 4019742963646354219
+      ST-Libry-I01_1: -1297326233368062698
+      ST-Libry-I01_10: 2418165551441143617
+      ST-Libry-I01_11: -4041542221031613689
+      ST-Libry-I01_12: 3768179311372483480
+      ST-Libry-I01_13: 1843039187678342197
+      ST-Libry-I01_14: 6270329066171346969
+      ST-Libry-I01_15: 2497975718495792722
+      ST-Libry-I01_16: 1511553242884493420
+      ST-Libry-I01_17: -2496098597381834676
+      ST-Libry-I01_18: -7022349072368951574
+      ST-Libry-I01_19: 3696657933223669371
+      ST-Libry-I01_2: -8162140325216241947
+      ST-Libry-I01_20: 4103869629055159406
+      ST-Libry-I01_21: 696826232013851235
+      ST-Libry-I01_22: -3101580588956151373
+      ST-Libry-I01_23: -2825349187773613121
+      ST-Libry-I01_24: -838031786374430787
+      ST-Libry-I01_25: 2010832740049425834
+      ST-Libry-I01_26: -6941824822542008132
+      ST-Libry-I01_27: 4660264387748695289
+      ST-Libry-I01_28: 8888218964215293511
+      ST-Libry-I01_29: -7793305198634358912
+      ST-Libry-I01_3: -1586851874447530360
+      ST-Libry-I01_30: 7759414545753289647
+      ST-Libry-I01_31: 1805560142926769052
+      ST-Libry-I01_32: -745527422286813312
+      ST-Libry-I01_33: -3941673131805115621
+      ST-Libry-I01_34: -428726148853530147
+      ST-Libry-I01_35: 219467458945385563
+      ST-Libry-I01_36: -8231379063684309198
+      ST-Libry-I01_37: -4702358086994262884
+      ST-Libry-I01_38: 7320969811034073871
+      ST-Libry-I01_39: 577953712671141890
+      ST-Libry-I01_4: -1687608862520041469
+      ST-Libry-I01_40: -4597765180941725329
+      ST-Libry-I01_41: -6717444596949463972
+      ST-Libry-I01_42: 4248808435786190518
+      ST-Libry-I01_43: 8677630683959024596
+      ST-Libry-I01_44: 1758357213157355101
+      ST-Libry-I01_45: 3294679695960037091
+      ST-Libry-I01_46: -113589528179114991
+      ST-Libry-I01_47: -8535160374787379682
+      ST-Libry-I01_48: -3983728704608479985
+      ST-Libry-I01_49: -5323199925910952747
+      ST-Libry-I01_5: 5878966300594034235
+      ST-Libry-I01_50: 8037083118490198241
+      ST-Libry-I01_51: -6769186778696414172
+      ST-Libry-I01_52: -2559363042129156431
+      ST-Libry-I01_53: -2909237580435189290
+      ST-Libry-I01_54: -2379519177342774987
+      ST-Libry-I01_55: 1207053950774826716
+      ST-Libry-I01_56: -5954179664548363606
+      ST-Libry-I01_57: 1648891495682803652
+      ST-Libry-I01_58: 5421007175688408666
+      ST-Libry-I01_59: -5844858056079566761
+      ST-Libry-I01_6: 397525473041603290
+      ST-Libry-I01_60: -1268169930651308850
+      ST-Libry-I01_61: 4663098277043315370
+      ST-Libry-I01_62: 5944710732460127924
+      ST-Libry-I01_63: -5236574882395575747
+      ST-Libry-I01_64: -998727758170725997
+      ST-Libry-I01_65: 5795665379076350418
+      ST-Libry-I01_66: -2772599628984302837
+      ST-Libry-I01_67: -6412317500044060173
+      ST-Libry-I01_68: -3523025290725204974
+      ST-Libry-I01_69: -6693449142531786530
+      ST-Libry-I01_7: -9190151297876088396
+      ST-Libry-I01_70: 6503591730242288663
+      ST-Libry-I01_71: -2021333353930364061
+      ST-Libry-I01_72: 2095866082678121664
+      ST-Libry-I01_73: 6831639907662139847
+      ST-Libry-I01_74: 6436825427408434354
+      ST-Libry-I01_8: 6730991546403507282
+      ST-Libry-I01_9: 3802085537836565612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
