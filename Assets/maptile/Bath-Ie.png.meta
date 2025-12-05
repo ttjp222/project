@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: 35926150a3cb5458a9e00cf63c72f359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7564524772690418223
+    second: Bath-Ie_0
+  - first:
+      213: -2052564242843844165
+    second: Bath-Ie_1
+  - first:
+      213: 6598408937158331118
+    second: Bath-Ie_2
+  - first:
+      213: 9065041537837473034
+    second: Bath-Ie_3
+  - first:
+      213: -7890058398106225192
+    second: Bath-Ie_4
+  - first:
+      213: -3416718500271437396
+    second: Bath-Ie_5
+  - first:
+      213: 6089810745040319381
+    second: Bath-Ie_6
+  - first:
+      213: -6354300793534321048
+    second: Bath-Ie_7
+  - first:
+      213: -6387216883465211702
+    second: Bath-Ie_8
+  - first:
+      213: -4336368888429691314
+    second: Bath-Ie_9
+  - first:
+      213: -7674636822559403700
+    second: Bath-Ie_10
+  - first:
+      213: 5675377890354625221
+    second: Bath-Ie_11
+  - first:
+      213: 5408464925846114654
+    second: Bath-Ie_12
+  - first:
+      213: 5240733009417416748
+    second: Bath-Ie_13
+  - first:
+      213: 2942804354565138924
+    second: Bath-Ie_14
+  - first:
+      213: 6716728655610404096
+    second: Bath-Ie_15
+  - first:
+      213: -6548252194217631652
+    second: Bath-Ie_16
+  - first:
+      213: -7387440620983279020
+    second: Bath-Ie_17
+  - first:
+      213: 7126192760422679247
+    second: Bath-Ie_18
+  - first:
+      213: -5015130872069358785
+    second: Bath-Ie_19
+  - first:
+      213: 4427156569202218456
+    second: Bath-Ie_20
+  - first:
+      213: -8655454924223136157
+    second: Bath-Ie_21
+  - first:
+      213: -6555435789504553282
+    second: Bath-Ie_22
+  - first:
+      213: 221902954686169541
+    second: Bath-Ie_23
+  - first:
+      213: 3021124683103935073
+    second: Bath-Ie_24
+  - first:
+      213: -1423004702908149056
+    second: Bath-Ie_25
+  - first:
+      213: -5319145720584697255
+    second: Bath-Ie_26
+  - first:
+      213: 3259452581349774264
+    second: Bath-Ie_27
+  - first:
+      213: 646224543657490531
+    second: Bath-Ie_28
+  - first:
+      213: 1362588856571004597
+    second: Bath-Ie_29
+  - first:
+      213: 5368754147417063542
+    second: Bath-Ie_30
+  - first:
+      213: 6206752969513195576
+    second: Bath-Ie_31
+  - first:
+      213: 6210275168346704490
+    second: Bath-Ie_32
+  - first:
+      213: 8222875877893451982
+    second: Bath-Ie_33
+  - first:
+      213: -5102701306636874440
+    second: Bath-Ie_34
+  - first:
+      213: -6635721005343758322
+    second: Bath-Ie_35
+  - first:
+      213: 47051581133695234
+    second: Bath-Ie_36
+  - first:
+      213: -6320667835149446460
+    second: Bath-Ie_37
+  - first:
+      213: 3952964998406301865
+    second: Bath-Ie_38
+  - first:
+      213: 6185809492762644006
+    second: Bath-Ie_39
+  - first:
+      213: 6801806507232371476
+    second: Bath-Ie_40
+  - first:
+      213: -6259706904964412485
+    second: Bath-Ie_41
+  - first:
+      213: -2348163407574491612
+    second: Bath-Ie_42
+  - first:
+      213: 8728292339219152006
+    second: Bath-Ie_43
+  - first:
+      213: -4124262026721571482
+    second: Bath-Ie_44
+  - first:
+      213: 6174962037869278402
+    second: Bath-Ie_45
+  - first:
+      213: 3877105512072751757
+    second: Bath-Ie_46
+  - first:
+      213: 3226299028869003789
+    second: Bath-Ie_47
+  - first:
+      213: -220975517980857746
+    second: Bath-Ie_48
+  - first:
+      213: -6644468421536765414
+    second: Bath-Ie_49
+  - first:
+      213: 4251409020775671625
+    second: Bath-Ie_50
+  - first:
+      213: -2971074924476619116
+    second: Bath-Ie_51
+  - first:
+      213: -5176017839610923065
+    second: Bath-Ie_52
+  - first:
+      213: 2909117568070966608
+    second: Bath-Ie_53
+  - first:
+      213: 6513935287085042433
+    second: Bath-Ie_54
+  - first:
+      213: -7488783035458636144
+    second: Bath-Ie_55
+  - first:
+      213: 6115262204140085248
+    second: Bath-Ie_56
+  - first:
+      213: -5296559050876549066
+    second: Bath-Ie_57
+  - first:
+      213: -3516432142288006911
+    second: Bath-Ie_58
+  - first:
+      213: -8851128293902010144
+    second: Bath-Ie_59
+  - first:
+      213: -6231356732297341767
+    second: Bath-Ie_60
+  - first:
+      213: 8415319600778416071
+    second: Bath-Ie_61
+  - first:
+      213: 7103775463893360448
+    second: Bath-Ie_62
+  - first:
+      213: -8365812420166073436
+    second: Bath-Ie_63
+  - first:
+      213: 8689246236465888378
+    second: Bath-Ie_64
+  - first:
+      213: 4582675600557111729
+    second: Bath-Ie_65
+  - first:
+      213: 4557522377124234601
+    second: Bath-Ie_66
+  - first:
+      213: 7024921773501743512
+    second: Bath-Ie_67
+  - first:
+      213: 8815418634373306701
+    second: Bath-Ie_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bath-Ie_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adad2c3379af860800000000000000
+      internalID: 7564524772690418223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 500
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1cf9232b3d383e0800000000000000
+      internalID: -2052564242843844165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 500
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeac51ee7f1429b50800000000000000
+      internalID: 6598408937158331118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 489
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d96f0004f7dcd70800000000000000
+      internalID: 9065041537837473034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 431
+        width: 194
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d57ac3b0b1e08290800000000000000
+      internalID: -7890058398106225192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 434
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9c0d560a06590d0800000000000000
+      internalID: -3416718500271437396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 447
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5933c7f7b9a538450800000000000000
+      internalID: 6089810745040319381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 485
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e6765481df0d7a0800000000000000
+      internalID: -6354300793534321048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 461
+        width: 67
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0bdadd51c0c57a0800000000000000
+      internalID: -6387216883465211702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 289
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb716987f12d3c0800000000000000
+      internalID: -4336368888429691314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 327
+        width: 97
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41d63bc8763e7590800000000000000
+      internalID: -7674636822559403700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 419
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca71b03f1ef2ce40800000000000000
+      internalID: 5675377890354625221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 385
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51973dd13abe0b40800000000000000
+      internalID: 5408464925846114654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 327
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203dfcc7e2dab840800000000000000
+      internalID: 5240733009417416748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 386
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9e35508f0f6d820800000000000000
+      internalID: 2942804354565138924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 352
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d5852202d963d50800000000000000
+      internalID: 6716728655610404096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 65
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c506cffc25fef15a0800000000000000
+      internalID: -6548252194217631652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 114
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452200345e98a7990800000000000000
+      internalID: -7387440620983279020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 322
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc244f53f8255e260800000000000000
+      internalID: 7126192760422679247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 294
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bf53c0b0da66ab0800000000000000
+      internalID: -5015130872069358785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 293
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5d550917b607d30800000000000000
+      internalID: 4427156569202218456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 311
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e3640ea95a1e780800000000000000
+      internalID: -8655454924223136157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 311
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebed2b2b1e96605a0800000000000000
+      internalID: -6555435789504553282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 262
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1cda4cf8b541300800000000000000
+      internalID: 221902954686169541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 262
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a139684e03de920800000000000000
+      internalID: 3021124683103935073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 240
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2137913c8704ce0800000000000000
+      internalID: -1423004702908149056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 268
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a820036299e26b0800000000000000
+      internalID: -5319145720584697255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 260
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b355997ad6eb3d20800000000000000
+      internalID: 3259452581349774264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 260
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368f7d17cc9d7f800800000000000000
+      internalID: 646224543657490531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 197
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b602d28853e8e210800000000000000
+      internalID: 1362588856571004597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 197
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700333c375a18a40800000000000000
+      internalID: 5368754147417063542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 209
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8385f64e0f0d22650800000000000000
+      internalID: 6206752969513195576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 229
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a0cb6bc545f2650800000000000000
+      internalID: 6210275168346704490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 233
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b7f55b068d1270800000000000000
+      internalID: 8222875877893451982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_34
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 223
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dccf662309f29b0800000000000000
+      internalID: -5102701306636874440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_35
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 210
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0823e737ee29e3a0800000000000000
+      internalID: -6635721005343758322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 191
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209289be92927a000800000000000000
+      internalID: 47051581133695234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 191
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c21eae971a7848a0800000000000000
+      internalID: -6320667835149446460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 194
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86f8be8b0cbd630800000000000000
+      internalID: 3952964998406301865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_39
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 194
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e4b58b5f868d550800000000000000
+      internalID: 6185809492762644006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_40
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 198
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413a6861bfed46e50800000000000000
+      internalID: 6801806507232371476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 197
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb498b3cbd0129a0800000000000000
+      internalID: -6259706904964412485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 153
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e93f862d5a96fd0800000000000000
+      internalID: -2348163407574491612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cbbe653af112970800000000000000
+      internalID: 8728292339219152006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 147
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc0a8b98da3c6c0800000000000000
+      internalID: -4124262026721571482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c478b0d14fd1b550800000000000000
+      internalID: 6174962037869278402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 128
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a2ec3ebee3ec530800000000000000
+      internalID: 3877105512072751757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0abce28fdd16cc20800000000000000
+      internalID: 3226299028869003789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a61baefefeeecf0800000000000000
+      internalID: -220975517980857746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a200dac2b1ac3a0800000000000000
+      internalID: -6644468421536765414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a93ebaf9000b30800000000000000
+      internalID: 4251409020775671625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496208df81f94c6d0800000000000000
+      internalID: -2971074924476619116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 102
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f7e6d2371b28b0800000000000000
+      internalID: -5176017839610923065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 105
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dd7b6d3034f5820800000000000000
+      internalID: 2909117568070966608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 105
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b069c91a5266a50800000000000000
+      internalID: 6513935287085042433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_55
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096348ba18f721890800000000000000
+      internalID: -7488783035458636144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 106
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000642a1396cdd450800000000000000
+      internalID: 6115262204140085248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6388f980b97de76b0800000000000000
+      internalID: -5296559050876549066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 68
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1015822f89f133fc0800000000000000
+      internalID: -3516432142288006911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 70
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8bf8446b97a2580800000000000000
+      internalID: -8851128293902010144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 49
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b49dae2116c589a0800000000000000
+      internalID: -6231356732297341767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf87c3379839c470800000000000000
+      internalID: 8415319600778416071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fdf71a52ea59260800000000000000
+      internalID: 7103775463893360448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_63
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a343768de9a6eb80800000000000000
+      internalID: -8365812420166073436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_64
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf27a1a67669870800000000000000
+      internalID: 8689246236465888378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b97e0cbd2fe89f30800000000000000
+      internalID: 4582675600557111729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_66
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 9
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965426884729f3f30800000000000000
+      internalID: 4557522377124234601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8918a7422298d7160800000000000000
+      internalID: 7024921773501743512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bath-Ie_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 5
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491e28ba88a65a70800000000000000
+      internalID: 8815418634373306701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bath-Ie_0: 7564524772690418223
+      Bath-Ie_1: -2052564242843844165
+      Bath-Ie_10: -7674636822559403700
+      Bath-Ie_11: 5675377890354625221
+      Bath-Ie_12: 5408464925846114654
+      Bath-Ie_13: 5240733009417416748
+      Bath-Ie_14: 2942804354565138924
+      Bath-Ie_15: 6716728655610404096
+      Bath-Ie_16: -6548252194217631652
+      Bath-Ie_17: -7387440620983279020
+      Bath-Ie_18: 7126192760422679247
+      Bath-Ie_19: -5015130872069358785
+      Bath-Ie_2: 6598408937158331118
+      Bath-Ie_20: 4427156569202218456
+      Bath-Ie_21: -8655454924223136157
+      Bath-Ie_22: -6555435789504553282
+      Bath-Ie_23: 221902954686169541
+      Bath-Ie_24: 3021124683103935073
+      Bath-Ie_25: -1423004702908149056
+      Bath-Ie_26: -5319145720584697255
+      Bath-Ie_27: 3259452581349774264
+      Bath-Ie_28: 646224543657490531
+      Bath-Ie_29: 1362588856571004597
+      Bath-Ie_3: 9065041537837473034
+      Bath-Ie_30: 5368754147417063542
+      Bath-Ie_31: 6206752969513195576
+      Bath-Ie_32: 6210275168346704490
+      Bath-Ie_33: 8222875877893451982
+      Bath-Ie_34: -5102701306636874440
+      Bath-Ie_35: -6635721005343758322
+      Bath-Ie_36: 47051581133695234
+      Bath-Ie_37: -6320667835149446460
+      Bath-Ie_38: 3952964998406301865
+      Bath-Ie_39: 6185809492762644006
+      Bath-Ie_4: -7890058398106225192
+      Bath-Ie_40: 6801806507232371476
+      Bath-Ie_41: -6259706904964412485
+      Bath-Ie_42: -2348163407574491612
+      Bath-Ie_43: 8728292339219152006
+      Bath-Ie_44: -4124262026721571482
+      Bath-Ie_45: 6174962037869278402
+      Bath-Ie_46: 3877105512072751757
+      Bath-Ie_47: 3226299028869003789
+      Bath-Ie_48: -220975517980857746
+      Bath-Ie_49: -6644468421536765414
+      Bath-Ie_5: -3416718500271437396
+      Bath-Ie_50: 4251409020775671625
+      Bath-Ie_51: -2971074924476619116
+      Bath-Ie_52: -5176017839610923065
+      Bath-Ie_53: 2909117568070966608
+      Bath-Ie_54: 6513935287085042433
+      Bath-Ie_55: -7488783035458636144
+      Bath-Ie_56: 6115262204140085248
+      Bath-Ie_57: -5296559050876549066
+      Bath-Ie_58: -3516432142288006911
+      Bath-Ie_59: -8851128293902010144
+      Bath-Ie_6: 6089810745040319381
+      Bath-Ie_60: -6231356732297341767
+      Bath-Ie_61: 8415319600778416071
+      Bath-Ie_62: 7103775463893360448
+      Bath-Ie_63: -8365812420166073436
+      Bath-Ie_64: 8689246236465888378
+      Bath-Ie_65: 4582675600557111729
+      Bath-Ie_66: 4557522377124234601
+      Bath-Ie_67: 7024921773501743512
+      Bath-Ie_68: 8815418634373306701
+      Bath-Ie_7: -6354300793534321048
+      Bath-Ie_8: -6387216883465211702
+      Bath-Ie_9: -4336368888429691314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

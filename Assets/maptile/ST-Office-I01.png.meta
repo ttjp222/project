@@ -1,0 +1,2860 @@
+fileFormatVersion: 2
+guid: bc0f4c89f1ead494e9a6a018102c32a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1680166888611757947
+    second: ST-Office-I01_0
+  - first:
+      213: -1372052048956073192
+    second: ST-Office-I01_1
+  - first:
+      213: 5232921679616265924
+    second: ST-Office-I01_2
+  - first:
+      213: 6021389399949461488
+    second: ST-Office-I01_3
+  - first:
+      213: 5786694144890590966
+    second: ST-Office-I01_4
+  - first:
+      213: 4709567147098413602
+    second: ST-Office-I01_5
+  - first:
+      213: -7387963421044149921
+    second: ST-Office-I01_6
+  - first:
+      213: -3303348757313005395
+    second: ST-Office-I01_7
+  - first:
+      213: -5267438041589579737
+    second: ST-Office-I01_8
+  - first:
+      213: -5765460837500669093
+    second: ST-Office-I01_9
+  - first:
+      213: 8607526880265376981
+    second: ST-Office-I01_10
+  - first:
+      213: 5099349111377446495
+    second: ST-Office-I01_11
+  - first:
+      213: -6257062973916449223
+    second: ST-Office-I01_12
+  - first:
+      213: -9099415648133528345
+    second: ST-Office-I01_13
+  - first:
+      213: -8946345035849685529
+    second: ST-Office-I01_14
+  - first:
+      213: -6070919793442147810
+    second: ST-Office-I01_15
+  - first:
+      213: -1487483068610601796
+    second: ST-Office-I01_16
+  - first:
+      213: 2002458493594083545
+    second: ST-Office-I01_17
+  - first:
+      213: -131274962553322762
+    second: ST-Office-I01_18
+  - first:
+      213: -3274456675362385106
+    second: ST-Office-I01_19
+  - first:
+      213: 8818162651573462358
+    second: ST-Office-I01_20
+  - first:
+      213: 5068779713010856149
+    second: ST-Office-I01_21
+  - first:
+      213: -125844004947517165
+    second: ST-Office-I01_22
+  - first:
+      213: -8011694429272320049
+    second: ST-Office-I01_23
+  - first:
+      213: 5548571107089437136
+    second: ST-Office-I01_24
+  - first:
+      213: -1535841056209917886
+    second: ST-Office-I01_25
+  - first:
+      213: -2946236798051474130
+    second: ST-Office-I01_26
+  - first:
+      213: 7508286407601157514
+    second: ST-Office-I01_27
+  - first:
+      213: 5394029041593829734
+    second: ST-Office-I01_28
+  - first:
+      213: -620197916275143395
+    second: ST-Office-I01_29
+  - first:
+      213: -722841663032506306
+    second: ST-Office-I01_30
+  - first:
+      213: 447504228837829680
+    second: ST-Office-I01_31
+  - first:
+      213: -2776984080257202321
+    second: ST-Office-I01_32
+  - first:
+      213: 4696406377518054789
+    second: ST-Office-I01_33
+  - first:
+      213: -1233337825708737373
+    second: ST-Office-I01_34
+  - first:
+      213: 2172822220183701749
+    second: ST-Office-I01_35
+  - first:
+      213: 7362640496982231169
+    second: ST-Office-I01_36
+  - first:
+      213: 4720534489393322886
+    second: ST-Office-I01_37
+  - first:
+      213: 1448402452565573622
+    second: ST-Office-I01_38
+  - first:
+      213: 552670834254983850
+    second: ST-Office-I01_39
+  - first:
+      213: 7985009668160573948
+    second: ST-Office-I01_40
+  - first:
+      213: 6766173102918510827
+    second: ST-Office-I01_41
+  - first:
+      213: -4168176104032412079
+    second: ST-Office-I01_42
+  - first:
+      213: 7544801869219455929
+    second: ST-Office-I01_43
+  - first:
+      213: -3566746731862967748
+    second: ST-Office-I01_44
+  - first:
+      213: -2793658608149065770
+    second: ST-Office-I01_45
+  - first:
+      213: -8100287599523317378
+    second: ST-Office-I01_46
+  - first:
+      213: -2608078173235088708
+    second: ST-Office-I01_47
+  - first:
+      213: -1437925023321427157
+    second: ST-Office-I01_48
+  - first:
+      213: 7142419441148741632
+    second: ST-Office-I01_49
+  - first:
+      213: 8375281942291225803
+    second: ST-Office-I01_50
+  - first:
+      213: -1126952598506727339
+    second: ST-Office-I01_51
+  - first:
+      213: -6156826209169940101
+    second: ST-Office-I01_52
+  - first:
+      213: 7194253841057517550
+    second: ST-Office-I01_53
+  - first:
+      213: -4514813054098912639
+    second: ST-Office-I01_54
+  - first:
+      213: 5667536976400070929
+    second: ST-Office-I01_55
+  - first:
+      213: -6712623758474396544
+    second: ST-Office-I01_56
+  - first:
+      213: -1554314231038013264
+    second: ST-Office-I01_57
+  - first:
+      213: -7135074058931896919
+    second: ST-Office-I01_58
+  - first:
+      213: -8122735611773917385
+    second: ST-Office-I01_59
+  - first:
+      213: 3989950179512039768
+    second: ST-Office-I01_60
+  - first:
+      213: 5888485695517117938
+    second: ST-Office-I01_61
+  - first:
+      213: 4881148802297610382
+    second: ST-Office-I01_62
+  - first:
+      213: 6303512935819421841
+    second: ST-Office-I01_63
+  - first:
+      213: 3240342956662743178
+    second: ST-Office-I01_64
+  - first:
+      213: 3221324950957332486
+    second: ST-Office-I01_65
+  - first:
+      213: 6821028756312641688
+    second: ST-Office-I01_66
+  - first:
+      213: 2288535131115219308
+    second: ST-Office-I01_67
+  - first:
+      213: -4938760717471785368
+    second: ST-Office-I01_68
+  - first:
+      213: -7228272766302967959
+    second: ST-Office-I01_69
+  - first:
+      213: 7037964327931565164
+    second: ST-Office-I01_70
+  - first:
+      213: -5643813433896350498
+    second: ST-Office-I01_71
+  - first:
+      213: 2461776068832115565
+    second: ST-Office-I01_72
+  - first:
+      213: -3040107566089103874
+    second: ST-Office-I01_73
+  - first:
+      213: 4505969203936338054
+    second: ST-Office-I01_74
+  - first:
+      213: -7837264112524939712
+    second: ST-Office-I01_75
+  - first:
+      213: -1369710445439689670
+    second: ST-Office-I01_76
+  - first:
+      213: 5517043173243655302
+    second: ST-Office-I01_77
+  - first:
+      213: -6900579848062617029
+    second: ST-Office-I01_78
+  - first:
+      213: 6434405998792534417
+    second: ST-Office-I01_79
+  - first:
+      213: 3944468020012025152
+    second: ST-Office-I01_80
+  - first:
+      213: -5914764171149177531
+    second: ST-Office-I01_81
+  - first:
+      213: -6886655682990539812
+    second: ST-Office-I01_82
+  - first:
+      213: -6917337781633600246
+    second: ST-Office-I01_83
+  - first:
+      213: 7441175795857447505
+    second: ST-Office-I01_84
+  - first:
+      213: 2971679291057568885
+    second: ST-Office-I01_85
+  - first:
+      213: -1035824406701230806
+    second: ST-Office-I01_86
+  - first:
+      213: 8764327522544962235
+    second: ST-Office-I01_87
+  - first:
+      213: 448332394816613984
+    second: ST-Office-I01_88
+  - first:
+      213: -4519958147972608000
+    second: ST-Office-I01_89
+  - first:
+      213: -8564638105770525434
+    second: ST-Office-I01_90
+  - first:
+      213: -2600750548747155768
+    second: ST-Office-I01_91
+  - first:
+      213: 2592723526776353907
+    second: ST-Office-I01_92
+  - first:
+      213: 5734374872074698219
+    second: ST-Office-I01_93
+  - first:
+      213: 2144902062597995410
+    second: ST-Office-I01_94
+  - first:
+      213: 814628788141863544
+    second: ST-Office-I01_95
+  - first:
+      213: -1937764711803988900
+    second: ST-Office-I01_96
+  - first:
+      213: 3971017175058593981
+    second: ST-Office-I01_97
+  - first:
+      213: 5852831553004059634
+    second: ST-Office-I01_98
+  - first:
+      213: -6100276965632877902
+    second: ST-Office-I01_99
+  - first:
+      213: -1932142867165113324
+    second: ST-Office-I01_100
+  - first:
+      213: -8736477071157157622
+    second: ST-Office-I01_101
+  - first:
+      213: -6892302110724350128
+    second: ST-Office-I01_102
+  - first:
+      213: 5584444694195871735
+    second: ST-Office-I01_103
+  - first:
+      213: -2302675490999569259
+    second: ST-Office-I01_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ST-Office-I01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1375
+        width: 256
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fb31f12e6215710800000000000000
+      internalID: 1680166888611757947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1375
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b50a05eed75fce0800000000000000
+      internalID: -1372052048956073192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cec7fada821f9840800000000000000
+      internalID: 5232921679616265924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1313
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f74a4ea1c5409350800000000000000
+      internalID: 6021389399949461488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1311
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f659026aa77e4050800000000000000
+      internalID: 5786694144890590966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1311
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a96a03e5ebb5140800000000000000
+      internalID: 4709567147098413602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1311
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517513696ea87990800000000000000
+      internalID: -7387963421044149921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1329
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8512f9ec52822d0800000000000000
+      internalID: -3303348757313005395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1311
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7208cae520d46e6b0800000000000000
+      internalID: -5267438041589579737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1311
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b85e3ae7fcffa0800000000000000
+      internalID: -5765460837500669093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1311
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d418dcc714147770800000000000000
+      internalID: 8607526880265376981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1322
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f564b51dff684c640800000000000000
+      internalID: 5099349111377446495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1321
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936f57660627a29a0800000000000000
+      internalID: -6257062973916449223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1311
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ce55cda168b180800000000000000
+      internalID: -9099415648133528345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1221
+        width: 256
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5a914f69238d380800000000000000
+      internalID: -8946345035849685529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1161
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e123efbec92cfbba0800000000000000
+      internalID: -6070919793442147810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1185
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc9e06b7066b5be0800000000000000
+      internalID: -1487483068610601796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1183
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0a324f3692acb10800000000000000
+      internalID: 2002458493594083545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1193
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f24b19fd1e9d2ef0800000000000000
+      internalID: -131274962553322762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1183
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e235e98a00bce82d0800000000000000
+      internalID: -3274456675362385106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1183
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65527a20638606a70800000000000000
+      internalID: 8818162651573462358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1186
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f7be1b4ce75640800000000000000
+      internalID: 5068779713010856149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1183
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311adf35b89e04ef0800000000000000
+      internalID: -125844004947517165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1183
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc75f364d5eb0d090800000000000000
+      internalID: -8011694429272320049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1151
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1df09360c700d40800000000000000
+      internalID: 5548571107089437136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1151
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248a52552b89faae0800000000000000
+      internalID: -1535841056209917886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1151
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2525f3fd3ddc17d0800000000000000
+      internalID: -2946236798051474130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1156
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85f5f405bac23860800000000000000
+      internalID: 7508286407601157514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1154
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6694754a5d07bda40800000000000000
+      internalID: 5394029041593829734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_29
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1151
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d8bf5f74d9467f0800000000000000
+      internalID: -620197916275143395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1151
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3848165653f7f5f0800000000000000
+      internalID: -722841663032506306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1023
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c2d53a9bad53600800000000000000
+      internalID: 447504228837829680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1127
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67ca5d21bb2679d0800000000000000
+      internalID: -2776984080257202321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58db7dcb7bcfc2140800000000000000
+      internalID: 4696406377518054789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1123
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acf39238cd42eee0800000000000000
+      internalID: -1233337825708737373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1119
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f800221c4a672e10800000000000000
+      internalID: 2172822220183701749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1122
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1880887e58a5d2660800000000000000
+      internalID: 7362640496982231169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1119
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bd44e8b15b28140800000000000000
+      internalID: 4720534489393322886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1091
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffb9fc4b52c91410800000000000000
+      internalID: 1448402452565573622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1056
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2bc71123b7ba700800000000000000
+      internalID: 552670834254983850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1090
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf155ce9cf370de60800000000000000
+      internalID: 7985009668160573948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1095
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8a240a69646ed50800000000000000
+      internalID: 6766173102918510827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e50e5dae9a726c0800000000000000
+      internalID: -4168176104032412079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1087
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b36783735584b860800000000000000
+      internalID: 7544801869219455929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1026
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ab58baebe508ec0800000000000000
+      internalID: -3566746731862967748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1026
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df009d1c4eea39d0800000000000000
+      internalID: -2793658608149065770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1026
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7939eb685ff59f80800000000000000
+      internalID: -8100287599523317378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1026
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb27fd938be3ecbd0800000000000000
+      internalID: -2608078173235088708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1039
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f74b4fc67b0ce0800000000000000
+      internalID: -1437925023321427157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008c38ab3a8fe1360800000000000000
+      internalID: 7142419441148741632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 998
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc13086d8afa3470800000000000000
+      internalID: 8375281942291225803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 917
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589d4f15924c50f0800000000000000
+      internalID: -1126952598506727339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 963
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b716c9ade2f8e8aa0800000000000000
+      internalID: -6156826209169940101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_53
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 909
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef093c60cf17d360800000000000000
+      internalID: 7194253841057517550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 903
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a4323a2792851c0800000000000000
+      internalID: -4514813054098912639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 903
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b7b52ad227ae40800000000000000
+      internalID: 5667536976400070929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 869
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3945b148f7d2a0800000000000000
+      internalID: -6712623758474396544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 831
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b015a52177fd6ae0800000000000000
+      internalID: -1554314231038013264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 799
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad724752ff1bfc90800000000000000
+      internalID: -7135074058931896919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 848
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737ecc74ffe364f80800000000000000
+      internalID: -8122735611773917385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 844
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85932517c862f5730800000000000000
+      internalID: 3989950179512039768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 810
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd4442aa8a18b150800000000000000
+      internalID: 5888485695517117938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 840
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c5c869f25db340800000000000000
+      internalID: 4881148802297610382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_63
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 807
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198a8902e939a7750800000000000000
+      internalID: 6303512935819421841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 809
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80625240c208fc20800000000000000
+      internalID: 3240342956662743178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 810
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081aefb9f174bc20800000000000000
+      internalID: 3221324950957332486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8905db6b38929ae50800000000000000
+      internalID: 6821028756312641688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 768
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69ef1a939282cf10800000000000000
+      internalID: 2288535131115219308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 782
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ed07c4b4ff57bb0800000000000000
+      internalID: -4938760717471785368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 741
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a1e0573400bb90800000000000000
+      internalID: -7228272766302967959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 714
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c645b3c744fdba160800000000000000
+      internalID: 7037964327931565164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 639
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc70685952da1b0800000000000000
+      internalID: -5643813433896350498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 704
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bbb43aa4cf92220800000000000000
+      internalID: 2461776068832115565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 712
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5184c964e5fc5d0800000000000000
+      internalID: -3040107566089103874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 703
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680a9790e1b688e30800000000000000
+      internalID: 4505969203936338054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_75
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 715
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea80230d17c3390800000000000000
+      internalID: -7837264112524939712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 256
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cdc6e5b9fcdfce0800000000000000
+      internalID: -1369710445439689670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 680
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6849ea71989709c40800000000000000
+      internalID: 5517043173243655302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_78
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 682
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a320460373c30a0800000000000000
+      internalID: -6900579848062617029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_79
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 671
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199ebaa3a2a9b4950800000000000000
+      internalID: 6434405998792534417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_80
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 671
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04584b8f3c09db630800000000000000
+      internalID: 3944468020012025152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_81
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 671
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d0278f2598aeda0800000000000000
+      internalID: -5914764171149177531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 256
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7ce4b42fad60a0800000000000000
+      internalID: -6886655682990539812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 97
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05375eefeda000a0800000000000000
+      internalID: -6917337781633600246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_84
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 289
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a515716fd544760800000000000000
+      internalID: 7441175795857447505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 295
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cfed112968d3920800000000000000
+      internalID: 2971679291057568885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_86
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 288
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b4eca03300a1f0800000000000000
+      internalID: -1035824406701230806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 193
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac874427521a970800000000000000
+      internalID: 8764327522544962235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e285e00fbc83600800000000000000
+      internalID: 448332394816613984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 261
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d57e1302e541c0800000000000000
+      internalID: -4519958147972608000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_90
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 215
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60df5cb250b442980800000000000000
+      internalID: -8564638105770525434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60680c72748ebd0800000000000000
+      internalID: -2600750548747155768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_92
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3747d4e8f443bf320800000000000000
+      internalID: 2592723526776353907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 129
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed30fa6097949f40800000000000000
+      internalID: 5734374872074698219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 97
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bf72fcf0934cd10800000000000000
+      internalID: 2144902062597995410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b00511942e4b00800000000000000
+      internalID: 814628788141863544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_96
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d2a6e24dab15e0800000000000000
+      internalID: -1937764711803988900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_97
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8b754d413eb1730800000000000000
+      internalID: 3971017175058593981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_98
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb310fa94f693150800000000000000
+      internalID: 5852831553004059634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_99
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba54ff9b66775ba0800000000000000
+      internalID: -6100276965632877902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 63
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414915b9c46af25e0800000000000000
+      internalID: -1932142867165113324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012551446cc1c680800000000000000
+      internalID: -8736477071157157622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_102
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f999d4fbf9950a0800000000000000
+      internalID: -6892302110724350128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff1c599cdeef7d40800000000000000
+      internalID: 5584444694195871735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Office-I01_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594f8fd47d04b00e0800000000000000
+      internalID: -2302675490999569259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ST-Office-I01_0: 1680166888611757947
+      ST-Office-I01_1: -1372052048956073192
+      ST-Office-I01_10: 8607526880265376981
+      ST-Office-I01_100: -1932142867165113324
+      ST-Office-I01_101: -8736477071157157622
+      ST-Office-I01_102: -6892302110724350128
+      ST-Office-I01_103: 5584444694195871735
+      ST-Office-I01_104: -2302675490999569259
+      ST-Office-I01_11: 5099349111377446495
+      ST-Office-I01_12: -6257062973916449223
+      ST-Office-I01_13: -9099415648133528345
+      ST-Office-I01_14: -8946345035849685529
+      ST-Office-I01_15: -6070919793442147810
+      ST-Office-I01_16: -1487483068610601796
+      ST-Office-I01_17: 2002458493594083545
+      ST-Office-I01_18: -131274962553322762
+      ST-Office-I01_19: -3274456675362385106
+      ST-Office-I01_2: 5232921679616265924
+      ST-Office-I01_20: 8818162651573462358
+      ST-Office-I01_21: 5068779713010856149
+      ST-Office-I01_22: -125844004947517165
+      ST-Office-I01_23: -8011694429272320049
+      ST-Office-I01_24: 5548571107089437136
+      ST-Office-I01_25: -1535841056209917886
+      ST-Office-I01_26: -2946236798051474130
+      ST-Office-I01_27: 7508286407601157514
+      ST-Office-I01_28: 5394029041593829734
+      ST-Office-I01_29: -620197916275143395
+      ST-Office-I01_3: 6021389399949461488
+      ST-Office-I01_30: -722841663032506306
+      ST-Office-I01_31: 447504228837829680
+      ST-Office-I01_32: -2776984080257202321
+      ST-Office-I01_33: 4696406377518054789
+      ST-Office-I01_34: -1233337825708737373
+      ST-Office-I01_35: 2172822220183701749
+      ST-Office-I01_36: 7362640496982231169
+      ST-Office-I01_37: 4720534489393322886
+      ST-Office-I01_38: 1448402452565573622
+      ST-Office-I01_39: 552670834254983850
+      ST-Office-I01_4: 5786694144890590966
+      ST-Office-I01_40: 7985009668160573948
+      ST-Office-I01_41: 6766173102918510827
+      ST-Office-I01_42: -4168176104032412079
+      ST-Office-I01_43: 7544801869219455929
+      ST-Office-I01_44: -3566746731862967748
+      ST-Office-I01_45: -2793658608149065770
+      ST-Office-I01_46: -8100287599523317378
+      ST-Office-I01_47: -2608078173235088708
+      ST-Office-I01_48: -1437925023321427157
+      ST-Office-I01_49: 7142419441148741632
+      ST-Office-I01_5: 4709567147098413602
+      ST-Office-I01_50: 8375281942291225803
+      ST-Office-I01_51: -1126952598506727339
+      ST-Office-I01_52: -6156826209169940101
+      ST-Office-I01_53: 7194253841057517550
+      ST-Office-I01_54: -4514813054098912639
+      ST-Office-I01_55: 5667536976400070929
+      ST-Office-I01_56: -6712623758474396544
+      ST-Office-I01_57: -1554314231038013264
+      ST-Office-I01_58: -7135074058931896919
+      ST-Office-I01_59: -8122735611773917385
+      ST-Office-I01_6: -7387963421044149921
+      ST-Office-I01_60: 3989950179512039768
+      ST-Office-I01_61: 5888485695517117938
+      ST-Office-I01_62: 4881148802297610382
+      ST-Office-I01_63: 6303512935819421841
+      ST-Office-I01_64: 3240342956662743178
+      ST-Office-I01_65: 3221324950957332486
+      ST-Office-I01_66: 6821028756312641688
+      ST-Office-I01_67: 2288535131115219308
+      ST-Office-I01_68: -4938760717471785368
+      ST-Office-I01_69: -7228272766302967959
+      ST-Office-I01_7: -3303348757313005395
+      ST-Office-I01_70: 7037964327931565164
+      ST-Office-I01_71: -5643813433896350498
+      ST-Office-I01_72: 2461776068832115565
+      ST-Office-I01_73: -3040107566089103874
+      ST-Office-I01_74: 4505969203936338054
+      ST-Office-I01_75: -7837264112524939712
+      ST-Office-I01_76: -1369710445439689670
+      ST-Office-I01_77: 5517043173243655302
+      ST-Office-I01_78: -6900579848062617029
+      ST-Office-I01_79: 6434405998792534417
+      ST-Office-I01_8: -5267438041589579737
+      ST-Office-I01_80: 3944468020012025152
+      ST-Office-I01_81: -5914764171149177531
+      ST-Office-I01_82: -6886655682990539812
+      ST-Office-I01_83: -6917337781633600246
+      ST-Office-I01_84: 7441175795857447505
+      ST-Office-I01_85: 2971679291057568885
+      ST-Office-I01_86: -1035824406701230806
+      ST-Office-I01_87: 8764327522544962235
+      ST-Office-I01_88: 448332394816613984
+      ST-Office-I01_89: -4519958147972608000
+      ST-Office-I01_9: -5765460837500669093
+      ST-Office-I01_90: -8564638105770525434
+      ST-Office-I01_91: -2600750548747155768
+      ST-Office-I01_92: 2592723526776353907
+      ST-Office-I01_93: 5734374872074698219
+      ST-Office-I01_94: 2144902062597995410
+      ST-Office-I01_95: 814628788141863544
+      ST-Office-I01_96: -1937764711803988900
+      ST-Office-I01_97: 3971017175058593981
+      ST-Office-I01_98: 5852831553004059634
+      ST-Office-I01_99: -6100276965632877902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

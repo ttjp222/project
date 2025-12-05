@@ -1,0 +1,2886 @@
+fileFormatVersion: 2
+guid: 11c50fa249a2549399da90cea5a31866
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5532753293445417626
+    second: ST-Schl-I02_0
+  - first:
+      213: -5562036737631553200
+    second: ST-Schl-I02_1
+  - first:
+      213: 488421971247132016
+    second: ST-Schl-I02_2
+  - first:
+      213: 5073698300546978301
+    second: ST-Schl-I02_3
+  - first:
+      213: -5830512908897908880
+    second: ST-Schl-I02_4
+  - first:
+      213: 2607255714485914238
+    second: ST-Schl-I02_5
+  - first:
+      213: -2400703915582699615
+    second: ST-Schl-I02_6
+  - first:
+      213: 36529206776192005
+    second: ST-Schl-I02_7
+  - first:
+      213: 1265059106411796256
+    second: ST-Schl-I02_8
+  - first:
+      213: -951497921250398155
+    second: ST-Schl-I02_9
+  - first:
+      213: -748682291673373502
+    second: ST-Schl-I02_10
+  - first:
+      213: -7908656109919852167
+    second: ST-Schl-I02_11
+  - first:
+      213: -5316751830726791627
+    second: ST-Schl-I02_12
+  - first:
+      213: -3828348002061490232
+    second: ST-Schl-I02_13
+  - first:
+      213: 1942672220949794914
+    second: ST-Schl-I02_14
+  - first:
+      213: 521708106786252626
+    second: ST-Schl-I02_15
+  - first:
+      213: 3101617888581843626
+    second: ST-Schl-I02_16
+  - first:
+      213: 3776036315549176657
+    second: ST-Schl-I02_17
+  - first:
+      213: -5081313191450756698
+    second: ST-Schl-I02_18
+  - first:
+      213: 274728623079619234
+    second: ST-Schl-I02_19
+  - first:
+      213: 7323420134408618016
+    second: ST-Schl-I02_20
+  - first:
+      213: -1849780687139317880
+    second: ST-Schl-I02_21
+  - first:
+      213: 4110937131296822727
+    second: ST-Schl-I02_22
+  - first:
+      213: 3121151627502410933
+    second: ST-Schl-I02_23
+  - first:
+      213: 7823709153062960139
+    second: ST-Schl-I02_24
+  - first:
+      213: -2752600697578057409
+    second: ST-Schl-I02_25
+  - first:
+      213: -7766805857638254522
+    second: ST-Schl-I02_26
+  - first:
+      213: -3835065032243231571
+    second: ST-Schl-I02_27
+  - first:
+      213: 960660848502517418
+    second: ST-Schl-I02_28
+  - first:
+      213: -7472712524988257225
+    second: ST-Schl-I02_29
+  - first:
+      213: 261062523432893527
+    second: ST-Schl-I02_30
+  - first:
+      213: -7008749568822510361
+    second: ST-Schl-I02_31
+  - first:
+      213: 2594290970096174473
+    second: ST-Schl-I02_32
+  - first:
+      213: 8670535574124938657
+    second: ST-Schl-I02_33
+  - first:
+      213: 2943635843576578923
+    second: ST-Schl-I02_34
+  - first:
+      213: -1655780711099295075
+    second: ST-Schl-I02_35
+  - first:
+      213: 4850997838905464386
+    second: ST-Schl-I02_36
+  - first:
+      213: 8848607013982577963
+    second: ST-Schl-I02_37
+  - first:
+      213: 8026022522274295541
+    second: ST-Schl-I02_38
+  - first:
+      213: 1277556853784022683
+    second: ST-Schl-I02_39
+  - first:
+      213: 5630930301390798259
+    second: ST-Schl-I02_40
+  - first:
+      213: -3672439808581856743
+    second: ST-Schl-I02_41
+  - first:
+      213: -2180153526264162832
+    second: ST-Schl-I02_42
+  - first:
+      213: 687271420764286075
+    second: ST-Schl-I02_43
+  - first:
+      213: 418719264145327196
+    second: ST-Schl-I02_44
+  - first:
+      213: -4468574732962690363
+    second: ST-Schl-I02_45
+  - first:
+      213: 7826022444649272305
+    second: ST-Schl-I02_46
+  - first:
+      213: -5926202105652004646
+    second: ST-Schl-I02_47
+  - first:
+      213: -1666675035619131300
+    second: ST-Schl-I02_48
+  - first:
+      213: -2878167691097827361
+    second: ST-Schl-I02_49
+  - first:
+      213: 6026620438450018732
+    second: ST-Schl-I02_50
+  - first:
+      213: -5621067002469816478
+    second: ST-Schl-I02_51
+  - first:
+      213: -1832857572811789158
+    second: ST-Schl-I02_52
+  - first:
+      213: 1349046383536977806
+    second: ST-Schl-I02_53
+  - first:
+      213: 1022878843655360988
+    second: ST-Schl-I02_54
+  - first:
+      213: 7867787421877147139
+    second: ST-Schl-I02_55
+  - first:
+      213: 6561089622499355304
+    second: ST-Schl-I02_56
+  - first:
+      213: -7993446379527601939
+    second: ST-Schl-I02_57
+  - first:
+      213: -4670140144426090210
+    second: ST-Schl-I02_58
+  - first:
+      213: -4652920962276738759
+    second: ST-Schl-I02_59
+  - first:
+      213: -1509269402512397981
+    second: ST-Schl-I02_60
+  - first:
+      213: -7966438776497063095
+    second: ST-Schl-I02_61
+  - first:
+      213: -8313892820254838239
+    second: ST-Schl-I02_62
+  - first:
+      213: 8287490715791177476
+    second: ST-Schl-I02_63
+  - first:
+      213: -4661687186201341010
+    second: ST-Schl-I02_64
+  - first:
+      213: -8402401583313069761
+    second: ST-Schl-I02_65
+  - first:
+      213: 7984389655638894061
+    second: ST-Schl-I02_66
+  - first:
+      213: -5809951163097660482
+    second: ST-Schl-I02_67
+  - first:
+      213: -7198010285969420554
+    second: ST-Schl-I02_68
+  - first:
+      213: -301812754731956545
+    second: ST-Schl-I02_69
+  - first:
+      213: -1486873411390092265
+    second: ST-Schl-I02_70
+  - first:
+      213: 8294653645041012964
+    second: ST-Schl-I02_71
+  - first:
+      213: 6924433140578221911
+    second: ST-Schl-I02_72
+  - first:
+      213: -6920037339542353077
+    second: ST-Schl-I02_73
+  - first:
+      213: 1154580941385137600
+    second: ST-Schl-I02_74
+  - first:
+      213: 6123871304347672938
+    second: ST-Schl-I02_75
+  - first:
+      213: -3607106183948670909
+    second: ST-Schl-I02_76
+  - first:
+      213: -920207904996257969
+    second: ST-Schl-I02_77
+  - first:
+      213: -1466893906812584511
+    second: ST-Schl-I02_78
+  - first:
+      213: 1753917940569546828
+    second: ST-Schl-I02_79
+  - first:
+      213: 6569997252731046312
+    second: ST-Schl-I02_80
+  - first:
+      213: -8663831472541191835
+    second: ST-Schl-I02_81
+  - first:
+      213: -7735878315308322759
+    second: ST-Schl-I02_82
+  - first:
+      213: -1006939722362976255
+    second: ST-Schl-I02_83
+  - first:
+      213: 3118656879167671543
+    second: ST-Schl-I02_84
+  - first:
+      213: -4854305913597073665
+    second: ST-Schl-I02_85
+  - first:
+      213: 2752367232022928355
+    second: ST-Schl-I02_86
+  - first:
+      213: 5510538317828528830
+    second: ST-Schl-I02_87
+  - first:
+      213: 3377266634583201179
+    second: ST-Schl-I02_88
+  - first:
+      213: -6969636412291083717
+    second: ST-Schl-I02_89
+  - first:
+      213: -3925159955665326563
+    second: ST-Schl-I02_90
+  - first:
+      213: 7866778469020432468
+    second: ST-Schl-I02_91
+  - first:
+      213: 7154869009208192508
+    second: ST-Schl-I02_92
+  - first:
+      213: -1648430010358259962
+    second: ST-Schl-I02_93
+  - first:
+      213: -4917603716023692659
+    second: ST-Schl-I02_94
+  - first:
+      213: -8588251414474329175
+    second: ST-Schl-I02_95
+  - first:
+      213: -2500568490601255846
+    second: ST-Schl-I02_96
+  - first:
+      213: -8559263661560260963
+    second: ST-Schl-I02_97
+  - first:
+      213: 4081773167438086142
+    second: ST-Schl-I02_98
+  - first:
+      213: 3965727062131905804
+    second: ST-Schl-I02_99
+  - first:
+      213: -2589276624125161862
+    second: ST-Schl-I02_100
+  - first:
+      213: -2973289723723368666
+    second: ST-Schl-I02_101
+  - first:
+      213: 7911998224162818058
+    second: ST-Schl-I02_102
+  - first:
+      213: 444484098857142438
+    second: ST-Schl-I02_103
+  - first:
+      213: 6792018503716844478
+    second: ST-Schl-I02_104
+  - first:
+      213: -2291497273889025713
+    second: ST-Schl-I02_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ST-Schl-I02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1323
+        width: 256
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66530528136b733b0800000000000000
+      internalID: -5532753293445417626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0597cc95e0dafc2b0800000000000000
+      internalID: -5562036737631553200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1311
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d6ea0f13937c600800000000000000
+      internalID: 488421971247132016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1262
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df11b9509b5696640800000000000000
+      internalID: 5073698300546978301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1312
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0778fc6966bd51fa0800000000000000
+      internalID: -5830512908897908880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1155
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a4a8c2245de2420800000000000000
+      internalID: 2607255714485914238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1151
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7cdcc128cfeaed0800000000000000
+      internalID: -2400703915582699615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 256
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c52d9be17c18000800000000000000
+      internalID: 36529206776192005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 810
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0275c810e846e8110800000000000000
+      internalID: 1265059106411796256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 809
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530f85f8ea99bc2f0800000000000000
+      internalID: -951497921250398155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 809
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4ee232c652c95f0800000000000000
+      internalID: -748682291673373502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 812
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979218d7b2fce3290800000000000000
+      internalID: -7908656109919852167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 721
+        width: 11
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e2f9a116a1736b0800000000000000
+      internalID: -5316751830726791627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76c8c86c9fedac0800000000000000
+      internalID: -3828348002061490232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 753
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2605bbc9712c5fa10800000000000000
+      internalID: 1942672220949794914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 753
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257af6d42ca7d3700800000000000000
+      internalID: 521708106786252626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaafaed59092b0b20800000000000000
+      internalID: 3101617888581843626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 721
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153984fc50d276430800000000000000
+      internalID: 3776036315549176657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 715
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a93217039c8b79b0800000000000000
+      internalID: -5081313191450756698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 714
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aafa442a3800d300800000000000000
+      internalID: 274728623079619234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 714
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0208e54afc302a560800000000000000
+      internalID: 7323420134408618016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 715
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887deaef3424456e0800000000000000
+      internalID: -1849780687139317880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 713
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c519ec4a8bfc0930800000000000000
+      internalID: 4110937131296822727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 721
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd96f5ede805b20800000000000000
+      internalID: 3121151627502410933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 713
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c3a4ed506639c60800000000000000
+      internalID: 7823709153062960139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 717
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f311e5cdf3cccc9d0800000000000000
+      internalID: -2752600697578057409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 705
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487c080933c63490800000000000000
+      internalID: -7766805857638254522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 675
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4ce961cac17cac0800000000000000
+      internalID: -3835065032243231571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 675
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae2e90b3f3f45d00800000000000000
+      internalID: 960660848502517418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 678
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c6677fc879b4890800000000000000
+      internalID: -7472712524988257225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 678
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c726d5bfa7f9300800000000000000
+      internalID: 261062523432893527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 561
+        width: 44
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec79aea66bebbe90800000000000000
+      internalID: -7008749568822510361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 697
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985069464e5c00420800000000000000
+      internalID: 2594290970096174473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 566
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5ca1c8a2ee35870800000000000000
+      internalID: 8670535574124938657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 640
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b634d742435e9d820800000000000000
+      internalID: 2943635843576578923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_35
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 640
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a9bf8473c7509e0800000000000000
+      internalID: -1655780711099295075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 619
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246d52235d4325340800000000000000
+      internalID: 4850997838905464386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 554
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25267182319cca70800000000000000
+      internalID: 8848607013982577963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 607
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fea177d5f8226f60800000000000000
+      internalID: 8026022522274295541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_39
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 578
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e8922903bcab110800000000000000
+      internalID: 1277556853784022683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 578
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb1617645152e40800000000000000
+      internalID: 5630930301390798259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 549
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9129976937fd80dc0800000000000000
+      internalID: -3672439808581856743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 548
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f595373be98eb1e0800000000000000
+      internalID: -2180153526264162832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_43
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 543
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ceee247bda98900800000000000000
+      internalID: 687271420764286075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 511
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54cef7c3f69fc500800000000000000
+      internalID: 418719264145327196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 513
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca0975b4fe6cf1c0800000000000000
+      internalID: -4468574732962690363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 511
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3dd8903fd9b9c60800000000000000
+      internalID: 7826022444649272305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 511
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b0715596e1cda0800000000000000
+      internalID: -5926202105652004646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 516
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5009e1b2e7ced8e0800000000000000
+      internalID: -1666675035619131300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 528
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd79b10fbb1be08d0800000000000000
+      internalID: -2878167691097827361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 464
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca91cedbb5bd2a350800000000000000
+      internalID: 6026620438450018732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_51
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 458
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ed1bc755fdf1b0800000000000000
+      internalID: -5621067002469816478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_52
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 447
+        width: 115
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c2ba89fb16096e0800000000000000
+      internalID: -1832857572811789158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 461
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e873f3cc986c8b210800000000000000
+      internalID: 1349046383536977806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 459
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1175c83eef13e00800000000000000
+      internalID: 1022878843655360988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306164199feff2d60800000000000000
+      internalID: 7867787421877147139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 416
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa6390ef3cad0b50800000000000000
+      internalID: 6561089622499355304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 416
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de000217ed2911190800000000000000
+      internalID: -7993446379527601939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 415
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1101383844503fb0800000000000000
+      internalID: -4670140144426090210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 397
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939b68b79018d6fb0800000000000000
+      internalID: -4652920962276738759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 416
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369e1e0997ffd0be0800000000000000
+      internalID: -1509269402512397981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 386
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bbef90426817190800000000000000
+      internalID: -7966438776497063095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 386
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1223a04678e1f9c80800000000000000
+      internalID: -8313892820254838239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 394
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b412a5e4130370800000000000000
+      internalID: 8287490715791177476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 385
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea39a7ce33c5e4fb0800000000000000
+      internalID: -4661687186201341010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_65
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 385
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39d17e174ca46b80800000000000000
+      internalID: -8402401583313069761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5e8a4b6104ece60800000000000000
+      internalID: 7984389655638894061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 352
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb342391338ee5fa0800000000000000
+      internalID: -5809951163097660482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 356
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe4f2718c78b1c90800000000000000
+      internalID: -7198010285969420554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_69
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6058d06eebfcbf0800000000000000
+      internalID: -301812754731956545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cce1892809d5be0800000000000000
+      internalID: -1486873411390092265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 202
+        width: 158
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0919f0b878c1370800000000000000
+      internalID: 8294653645041012964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f7b1f0147881060800000000000000
+      internalID: 6924433140578221911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 163
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b832024b617ff90800000000000000
+      internalID: -6920037339542353077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_74
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 163
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd72bbbf35e50010800000000000000
+      internalID: 1154580941385137600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61e9d1718c5cf450800000000000000
+      internalID: 6123871304347672938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 173
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348ef96790cf0fdc0800000000000000
+      internalID: -3607106183948670909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 166
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f013f29c3ca33f0800000000000000
+      internalID: -920207904996257969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd304183cb84abe0800000000000000
+      internalID: -1466893906812584511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_79
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 162
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4025d4031b275810800000000000000
+      internalID: 1753917940569546828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_80
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 164
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9835821b15d2b50800000000000000
+      internalID: 6569997252731046312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 166
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561355dbd23e3c780800000000000000
+      internalID: -8663831472541191835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930766e98a3a4a490800000000000000
+      internalID: -7735878315308322759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_83
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108035258a1a602f0800000000000000
+      internalID: -1006939722362976255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_84
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 104
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc0e1388e1b74b20800000000000000
+      internalID: 3118656879167671543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_85
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 133
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e7f4ad7a02acb0800000000000000
+      internalID: -4854305913597073665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebd6243a6f523620800000000000000
+      internalID: 2752367232022928355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba195b676d597c40800000000000000
+      internalID: 5510538317828528830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b955c125c167ede20800000000000000
+      internalID: 3377266634583201179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_89
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 135
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3213c71c90e64f90800000000000000
+      internalID: -6969636412291083717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 135
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eeaf311d70789c0800000000000000
+      internalID: -3925159955665326563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 101
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45877ac66596c2d60800000000000000
+      internalID: 7866778469020432468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 101
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd2e4ca4733b4360800000000000000
+      internalID: 7154869009208192508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f908ba3a99f19e0800000000000000
+      internalID: -1648430010358259962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d825440997921cbb0800000000000000
+      internalID: -4917603716023692659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 103
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3f28e47d660d880800000000000000
+      internalID: -8588251414474329175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_96
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6d25d4323c4dd0800000000000000
+      internalID: -2500568490601255846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 97
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d969ac97c03673980800000000000000
+      internalID: -8559263661560260963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_98
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff3ed2d11f55a830800000000000000
+      internalID: 4081773167438086142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_99
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05968e60c7190730800000000000000
+      internalID: 3965727062131905804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_100
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e0cc101aa011cd0800000000000000
+      internalID: -2589276624125161862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 31
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627362bdfb0ccb6d0800000000000000
+      internalID: -2973289723723368666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_102
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 73
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080fbe17701dcd60800000000000000
+      internalID: 7911998224162818058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_103
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a880b4deef1b2600800000000000000
+      internalID: 444484098857142438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb33cede7d8124e50800000000000000
+      internalID: 6792018503716844478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Schl-I02_105
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41911ace57f230e0800000000000000
+      internalID: -2291497273889025713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ST-Schl-I02_0: -5532753293445417626
+      ST-Schl-I02_1: -5562036737631553200
+      ST-Schl-I02_10: -748682291673373502
+      ST-Schl-I02_100: -2589276624125161862
+      ST-Schl-I02_101: -2973289723723368666
+      ST-Schl-I02_102: 7911998224162818058
+      ST-Schl-I02_103: 444484098857142438
+      ST-Schl-I02_104: 6792018503716844478
+      ST-Schl-I02_105: -2291497273889025713
+      ST-Schl-I02_11: -7908656109919852167
+      ST-Schl-I02_12: -5316751830726791627
+      ST-Schl-I02_13: -3828348002061490232
+      ST-Schl-I02_14: 1942672220949794914
+      ST-Schl-I02_15: 521708106786252626
+      ST-Schl-I02_16: 3101617888581843626
+      ST-Schl-I02_17: 3776036315549176657
+      ST-Schl-I02_18: -5081313191450756698
+      ST-Schl-I02_19: 274728623079619234
+      ST-Schl-I02_2: 488421971247132016
+      ST-Schl-I02_20: 7323420134408618016
+      ST-Schl-I02_21: -1849780687139317880
+      ST-Schl-I02_22: 4110937131296822727
+      ST-Schl-I02_23: 3121151627502410933
+      ST-Schl-I02_24: 7823709153062960139
+      ST-Schl-I02_25: -2752600697578057409
+      ST-Schl-I02_26: -7766805857638254522
+      ST-Schl-I02_27: -3835065032243231571
+      ST-Schl-I02_28: 960660848502517418
+      ST-Schl-I02_29: -7472712524988257225
+      ST-Schl-I02_3: 5073698300546978301
+      ST-Schl-I02_30: 261062523432893527
+      ST-Schl-I02_31: -7008749568822510361
+      ST-Schl-I02_32: 2594290970096174473
+      ST-Schl-I02_33: 8670535574124938657
+      ST-Schl-I02_34: 2943635843576578923
+      ST-Schl-I02_35: -1655780711099295075
+      ST-Schl-I02_36: 4850997838905464386
+      ST-Schl-I02_37: 8848607013982577963
+      ST-Schl-I02_38: 8026022522274295541
+      ST-Schl-I02_39: 1277556853784022683
+      ST-Schl-I02_4: -5830512908897908880
+      ST-Schl-I02_40: 5630930301390798259
+      ST-Schl-I02_41: -3672439808581856743
+      ST-Schl-I02_42: -2180153526264162832
+      ST-Schl-I02_43: 687271420764286075
+      ST-Schl-I02_44: 418719264145327196
+      ST-Schl-I02_45: -4468574732962690363
+      ST-Schl-I02_46: 7826022444649272305
+      ST-Schl-I02_47: -5926202105652004646
+      ST-Schl-I02_48: -1666675035619131300
+      ST-Schl-I02_49: -2878167691097827361
+      ST-Schl-I02_5: 2607255714485914238
+      ST-Schl-I02_50: 6026620438450018732
+      ST-Schl-I02_51: -5621067002469816478
+      ST-Schl-I02_52: -1832857572811789158
+      ST-Schl-I02_53: 1349046383536977806
+      ST-Schl-I02_54: 1022878843655360988
+      ST-Schl-I02_55: 7867787421877147139
+      ST-Schl-I02_56: 6561089622499355304
+      ST-Schl-I02_57: -7993446379527601939
+      ST-Schl-I02_58: -4670140144426090210
+      ST-Schl-I02_59: -4652920962276738759
+      ST-Schl-I02_6: -2400703915582699615
+      ST-Schl-I02_60: -1509269402512397981
+      ST-Schl-I02_61: -7966438776497063095
+      ST-Schl-I02_62: -8313892820254838239
+      ST-Schl-I02_63: 8287490715791177476
+      ST-Schl-I02_64: -4661687186201341010
+      ST-Schl-I02_65: -8402401583313069761
+      ST-Schl-I02_66: 7984389655638894061
+      ST-Schl-I02_67: -5809951163097660482
+      ST-Schl-I02_68: -7198010285969420554
+      ST-Schl-I02_69: -301812754731956545
+      ST-Schl-I02_7: 36529206776192005
+      ST-Schl-I02_70: -1486873411390092265
+      ST-Schl-I02_71: 8294653645041012964
+      ST-Schl-I02_72: 6924433140578221911
+      ST-Schl-I02_73: -6920037339542353077
+      ST-Schl-I02_74: 1154580941385137600
+      ST-Schl-I02_75: 6123871304347672938
+      ST-Schl-I02_76: -3607106183948670909
+      ST-Schl-I02_77: -920207904996257969
+      ST-Schl-I02_78: -1466893906812584511
+      ST-Schl-I02_79: 1753917940569546828
+      ST-Schl-I02_8: 1265059106411796256
+      ST-Schl-I02_80: 6569997252731046312
+      ST-Schl-I02_81: -8663831472541191835
+      ST-Schl-I02_82: -7735878315308322759
+      ST-Schl-I02_83: -1006939722362976255
+      ST-Schl-I02_84: 3118656879167671543
+      ST-Schl-I02_85: -4854305913597073665
+      ST-Schl-I02_86: 2752367232022928355
+      ST-Schl-I02_87: 5510538317828528830
+      ST-Schl-I02_88: 3377266634583201179
+      ST-Schl-I02_89: -6969636412291083717
+      ST-Schl-I02_9: -951497921250398155
+      ST-Schl-I02_90: -3925159955665326563
+      ST-Schl-I02_91: 7866778469020432468
+      ST-Schl-I02_92: 7154869009208192508
+      ST-Schl-I02_93: -1648430010358259962
+      ST-Schl-I02_94: -4917603716023692659
+      ST-Schl-I02_95: -8588251414474329175
+      ST-Schl-I02_96: -2500568490601255846
+      ST-Schl-I02_97: -8559263661560260963
+      ST-Schl-I02_98: 4081773167438086142
+      ST-Schl-I02_99: 3965727062131905804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
