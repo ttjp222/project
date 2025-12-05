@@ -1,43 +1,55 @@
 fileFormatVersion: 2
-guid: e9d670a8204ed4f4d8439bf7dc027a19
+guid: 442589ae26011421ab5cba2c562cc0d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7123221700233094198
-    second: pipo-charachip001a_0
+      213: -8597686222848329219
+    second: Door2_pipo_0
   - first:
-      213: -1033533740216229814
-    second: pipo-charachip001a_1
+      213: -8891499494233061214
+    second: Door2_pipo_1
   - first:
-      213: 4856574736241978776
-    second: pipo-charachip001a_2
+      213: 834255127136044185
+    second: Door2_pipo_2
   - first:
-      213: -6072363473950746282
-    second: pipo-charachip001a_3
+      213: -2559203469631848017
+    second: Door2_pipo_3
   - first:
-      213: 6309742527095810602
-    second: pipo-charachip001a_4
+      213: -7322710988291986442
+    second: Door2_pipo_4
   - first:
-      213: -5985933965862517253
-    second: pipo-charachip001a_5
+      213: 6546672625700160552
+    second: Door2_pipo_5
   - first:
-      213: 7605072410757356056
-    second: pipo-charachip001a_6
+      213: 4793812157196476444
+    second: Door2_pipo_6
   - first:
-      213: -845745319647685835
-    second: pipo-charachip001a_7
+      213: 612275315331427926
+    second: Door2_pipo_7
   - first:
-      213: 7369478492253211144
-    second: pipo-charachip001a_8
+      213: 8900302012809616170
+    second: Door2_pipo_8
   - first:
-      213: 8633428880624667157
-    second: pipo-charachip001a_9
+      213: 3640905417980296332
+    second: Door2_pipo_9
   - first:
-      213: -6029385303150168496
-    second: pipo-charachip001a_10
+      213: -3714319355116980034
+    second: Door2_pipo_10
   - first:
-      213: 7422054324832232932
-    second: pipo-charachip001a_11
+      213: -8689851457255969485
+    second: Door2_pipo_11
+  - first:
+      213: -2872844942842442305
+    second: Door2_pipo_12
+  - first:
+      213: -8283313361698694181
+    second: Door2_pipo_13
+  - first:
+      213: 1458122286113076484
+    second: Door2_pipo_14
+  - first:
+      213: 1119843234248649235
+    second: Door2_pipo_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -70,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -146,13 +158,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pipo-charachip001a_0
+      name: Door2_pipo_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 95
-        width: 25
-        height: 32
+        x: 0
+        y: 289
+        width: 33
+        height: 62
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,152 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6346fba5564cad260800000000000000
-      internalID: 7123221700233094198
+      spriteID: df9fadccee1eea880800000000000000
+      internalID: -8597686222848329219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_1
+      name: Door2_pipo_1
       rect:
         serializedVersion: 2
-        x: 4
-        y: 63
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a40e7070a8628a1f0800000000000000
-      internalID: -1033533740216229814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_2
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 95
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89de6dacdf4066340800000000000000
-      internalID: 4856574736241978776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_3
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 63
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 659db1cd791aabba0800000000000000
-      internalID: -6072363473950746282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_4
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 95
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2aa8bfd565b09750800000000000000
-      internalID: 6309742527095810602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_5
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 63
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf5c1dbd5c0bdeca0800000000000000
-      internalID: -5985933965862517253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_6
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 31
-        width: 25
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81ad05e6015aa8960800000000000000
-      internalID: 7605072410757356056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_7
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 0
+        x: 39
+        y: 291
         width: 26
-        height: 31
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53353fbdc1f4344f0800000000000000
-      internalID: -845745319647685835
+      spriteID: 2a84ca5b15c0b9480800000000000000
+      internalID: -8891499494233061214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_8
+      name: Door2_pipo_2
       rect:
         serializedVersion: 2
-        x: 36
-        y: 31
-        width: 25
-        height: 33
+        x: 86
+        y: 293
+        width: 11
+        height: 75
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 80a42aeb4a5a54660800000000000000
-      internalID: 7369478492253211144
+      spriteID: 9940ef83e9ed39b00800000000000000
+      internalID: 834255127136044185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_9
+      name: Door2_pipo_3
       rect:
         serializedVersion: 2
-        x: 36
-        y: 0
-        width: 25
-        height: 32
+        x: 98
+        y: 293
+        width: 28
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -359,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51a4b3733d910d770800000000000000
-      internalID: 8633428880624667157
+      spriteID: fa185ace002eb7cd0800000000000000
+      internalID: -2559203469631848017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_10
+      name: Door2_pipo_4
       rect:
         serializedVersion: 2
-        x: 67
-        y: 0
-        width: 26
-        height: 31
+        x: 136
+        y: 294
+        width: 22
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,20 +261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 056f5c70302535ca0800000000000000
-      internalID: -6029385303150168496
+      spriteID: 6fba10e4721806a90800000000000000
+      internalID: -7322710988291986442
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_11
+      name: Door2_pipo_5
       rect:
         serializedVersion: 2
-        x: 68
-        y: 31
-        width: 25
-        height: 32
+        x: 183
+        y: 295
+        width: 7
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,8 +283,228 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e5e64fa51f600760800000000000000
-      internalID: 7422054324832232932
+      spriteID: 824c1ab31147ada50800000000000000
+      internalID: 6546672625700160552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1025ad12ca078240800000000000000
+      internalID: 4793812157196476444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 195
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ee113c72d3f7800800000000000000
+      internalID: 612275315331427926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 193
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b163b5689348b70800000000000000
+      internalID: 8900302012809616170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 193
+        width: 11
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cb283ff28178230800000000000000
+      internalID: 3640905417980296332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f4efc936147cc0800000000000000
+      internalID: -3714319355116980034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33de853f322776780800000000000000
+      internalID: -8689851457255969485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 101
+        width: 11
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd4917deba9128d0800000000000000
+      internalID: -2872844942842442305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbd3b86262cb0d80800000000000000
+      internalID: -8283313361698694181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 27
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405b9d66e7a4c3410800000000000000
+      internalID: 1458122286113076484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door2_pipo_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 11
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ae3850d7b7a8f00800000000000000
+      internalID: 1119843234248649235
       vertices: []
       indices: 
       edges: []
@@ -423,18 +523,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pipo-charachip001a_0: 7123221700233094198
-      pipo-charachip001a_1: -1033533740216229814
-      pipo-charachip001a_10: -6029385303150168496
-      pipo-charachip001a_11: 7422054324832232932
-      pipo-charachip001a_2: 4856574736241978776
-      pipo-charachip001a_3: -6072363473950746282
-      pipo-charachip001a_4: 6309742527095810602
-      pipo-charachip001a_5: -5985933965862517253
-      pipo-charachip001a_6: 7605072410757356056
-      pipo-charachip001a_7: -845745319647685835
-      pipo-charachip001a_8: 7369478492253211144
-      pipo-charachip001a_9: 8633428880624667157
+      Door2_pipo_0: -8597686222848329219
+      Door2_pipo_1: -8891499494233061214
+      Door2_pipo_10: -3714319355116980034
+      Door2_pipo_11: -8689851457255969485
+      Door2_pipo_12: -2872844942842442305
+      Door2_pipo_13: -8283313361698694181
+      Door2_pipo_14: 1458122286113076484
+      Door2_pipo_15: 1119843234248649235
+      Door2_pipo_2: 834255127136044185
+      Door2_pipo_3: -2559203469631848017
+      Door2_pipo_4: -7322710988291986442
+      Door2_pipo_5: 6546672625700160552
+      Door2_pipo_6: 4793812157196476444
+      Door2_pipo_7: 612275315331427926
+      Door2_pipo_8: 8900302012809616170
+      Door2_pipo_9: 3640905417980296332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
