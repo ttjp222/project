@@ -1,43 +1,10 @@
 fileFormatVersion: 2
-guid: e9d670a8204ed4f4d8439bf7dc027a19
+guid: ba49cb4cc12b44f5b830498ac04c81e7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7123221700233094198
-    second: pipo-charachip001a_0
-  - first:
-      213: -1033533740216229814
-    second: pipo-charachip001a_1
-  - first:
-      213: 4856574736241978776
-    second: pipo-charachip001a_2
-  - first:
-      213: -6072363473950746282
-    second: pipo-charachip001a_3
-  - first:
-      213: 6309742527095810602
-    second: pipo-charachip001a_4
-  - first:
-      213: -5985933965862517253
-    second: pipo-charachip001a_5
-  - first:
-      213: 7605072410757356056
-    second: pipo-charachip001a_6
-  - first:
-      213: -845745319647685835
-    second: pipo-charachip001a_7
-  - first:
-      213: 7369478492253211144
-    second: pipo-charachip001a_8
-  - first:
-      213: 8633428880624667157
-    second: pipo-charachip001a_9
-  - first:
-      213: -6029385303150168496
-    second: pipo-charachip001a_10
-  - first:
-      213: 7422054324832232932
-    second: pipo-charachip001a_11
+      213: 2364132096378263490
+    second: dungeon_floor_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,265 +113,309 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pipo-charachip001a_0
+      name: dungeon_floor_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 95
-        width: 25
+        x: 32
+        y: 64
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6346fba5564cad260800000000000000
-      internalID: 7123221700233094198
+      spriteID: 2c7d9bead951fc020800000000000000
+      internalID: 2364132096378263490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_1
+      name: dungeon_floor_1
       rect:
         serializedVersion: 2
-        x: 4
-        y: 63
-        width: 25
+        x: 64
+        y: 64
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a40e7070a8628a1f0800000000000000
-      internalID: -1033533740216229814
+      spriteID: 57978b641232f469fb145b790e6d575e
+      internalID: -1772209789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_2
+      name: dungeon_floor_2
       rect:
         serializedVersion: 2
-        x: 36
-        y: 95
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89de6dacdf4066340800000000000000
-      internalID: 4856574736241978776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_3
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 63
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 659db1cd791aabba0800000000000000
-      internalID: -6072363473950746282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_4
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 95
-        width: 25
+        x: 96
+        y: 64
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a2aa8bfd565b09750800000000000000
-      internalID: 6309742527095810602
+      spriteID: a2d153a57b29f4301854c5d6b3914547
+      internalID: -1422124949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_5
+      name: dungeon_floor_3
       rect:
         serializedVersion: 2
-        x: 68
-        y: 63
-        width: 25
+        x: 128
+        y: 64
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bf5c1dbd5c0bdeca0800000000000000
-      internalID: -5985933965862517253
+      spriteID: fc482246cc3404e1483349de79492cc8
+      internalID: -1829619252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_6
+      name: dungeon_floor_4
       rect:
         serializedVersion: 2
-        x: 4
-        y: 31
-        width: 25
+        x: 0
+        y: 32
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 81ad05e6015aa8960800000000000000
-      internalID: 7605072410757356056
+      spriteID: 5b1a249cb75e842469e1179b0e4d34b1
+      internalID: 10172196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_7
+      name: dungeon_floor_5
       rect:
         serializedVersion: 2
-        x: 4
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99b37c36545348018ccee5b8d28f1ff
+      internalID: 1935432408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_floor_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac20af028e434ea0b01fb6530cdd035
+      internalID: 612763347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_floor_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a14330725841d3a5a4a2cc935dfdd
+      internalID: -2112795524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_floor_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5a433f65eb4d63aff08041ff6218f
+      internalID: 2113471798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_floor_9
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 0
-        width: 26
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53353fbdc1f4344f0800000000000000
-      internalID: -845745319647685835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_8
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 31
-        width: 25
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80a42aeb4a5a54660800000000000000
-      internalID: 7369478492253211144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_9
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 0
-        width: 25
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 51a4b3733d910d770800000000000000
-      internalID: 8633428880624667157
+      spriteID: ebd8adc31a34a47f686e006c0c63b396
+      internalID: -422222087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pipo-charachip001a_10
+      name: dungeon_floor_10
       rect:
         serializedVersion: 2
-        x: 67
+        x: 32
         y: 0
-        width: 26
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 056f5c70302535ca0800000000000000
-      internalID: -6029385303150168496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pipo-charachip001a_11
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 31
-        width: 25
+        width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4e5e64fa51f600760800000000000000
-      internalID: 7422054324832232932
+      spriteID: d6ffac3ac7a6d4dd5bbd9735c716dcc3
+      internalID: 1800410760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_floor_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6d6ed226e04471b7051213a160863
+      internalID: 1031048365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_floor_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd9416ce6114d708b1da08e52dce7d
+      internalID: 631918870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_floor_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63136c273601c43f29d104ad5082d3a6
+      internalID: 764213674
       vertices: []
       indices: 
       edges: []
@@ -413,7 +424,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e3a4701938258485ab69ef80649e72d9
     internalID: 0
     vertices: []
     indices: 
@@ -421,20 +432,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      pipo-charachip001a_0: 7123221700233094198
-      pipo-charachip001a_1: -1033533740216229814
-      pipo-charachip001a_10: -6029385303150168496
-      pipo-charachip001a_11: 7422054324832232932
-      pipo-charachip001a_2: 4856574736241978776
-      pipo-charachip001a_3: -6072363473950746282
-      pipo-charachip001a_4: 6309742527095810602
-      pipo-charachip001a_5: -5985933965862517253
-      pipo-charachip001a_6: 7605072410757356056
-      pipo-charachip001a_7: -845745319647685835
-      pipo-charachip001a_8: 7369478492253211144
-      pipo-charachip001a_9: 8633428880624667157
+      dungeon_floor_0: 2364132096378263490
+      dungeon_floor_1: -1772209789
+      dungeon_floor_10: 1800410760
+      dungeon_floor_11: 1031048365
+      dungeon_floor_12: 631918870
+      dungeon_floor_13: 764213674
+      dungeon_floor_2: -1422124949
+      dungeon_floor_3: -1829619252
+      dungeon_floor_4: 10172196
+      dungeon_floor_5: 1935432408
+      dungeon_floor_6: 612763347
+      dungeon_floor_7: -2112795524
+      dungeon_floor_8: 2113471798
+      dungeon_floor_9: -422222087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
