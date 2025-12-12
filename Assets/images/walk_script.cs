@@ -10,13 +10,24 @@ public class PlayerMovement : MonoBehaviour
     float moveX;
     float moveY;
     float lastMoveX = 0;
-    float lastMoveY = -1;  // 初期値は下向き
+    float lastMoveY = -1;
 
     void Start()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+        
+        // このシーンに保存された位置があれば復元
+        if (GameManager.Instance != null)
+        {
+            Vector3 savedPos = GameManager.Instance.GetPlayerPosition();
+            if (savedPos != Vector3.zero)
+            {
+                transform.position = savedPos;
+                Debug.Log("プレイヤー位置を復元: " + savedPos);
+            }
+        }
     }
 
     void Update()
@@ -54,5 +65,15 @@ public class PlayerMovement : MonoBehaviour
     {
         // 移動処理
         rb.linearVelocity = new Vector2(moveX, moveY) * speed;
+    }
+    
+    void OnDestroy()
+    {
+        // このシーンのプレイヤー位置を保存
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.SavePlayerPosition(transform.position);
+            Debug.Log("プレイヤー位置を保存: " + transform.position);
+        }
     }
 }
