@@ -1,0 +1,2598 @@
+fileFormatVersion: 2
+guid: 2629c870bb4ef4584a3b027254326669
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7625237843785443888
+    second: ST-Town-I01_0
+  - first:
+      213: 1319754116410534011
+    second: ST-Town-I01_1
+  - first:
+      213: 5176756402829097134
+    second: ST-Town-I01_2
+  - first:
+      213: 7981438948452387485
+    second: ST-Town-I01_3
+  - first:
+      213: 7660604868100769387
+    second: ST-Town-I01_4
+  - first:
+      213: 6600106321866271178
+    second: ST-Town-I01_5
+  - first:
+      213: 6369570038396119676
+    second: ST-Town-I01_6
+  - first:
+      213: 8333237735831217204
+    second: ST-Town-I01_7
+  - first:
+      213: 6749666371888547875
+    second: ST-Town-I01_8
+  - first:
+      213: 1068583982762960040
+    second: ST-Town-I01_9
+  - first:
+      213: 2952529173612592913
+    second: ST-Town-I01_10
+  - first:
+      213: 6005071230292667795
+    second: ST-Town-I01_11
+  - first:
+      213: 2342594489931559786
+    second: ST-Town-I01_12
+  - first:
+      213: 7747941116116194691
+    second: ST-Town-I01_13
+  - first:
+      213: 4794973444724256585
+    second: ST-Town-I01_14
+  - first:
+      213: -1250106216774453605
+    second: ST-Town-I01_15
+  - first:
+      213: -6879955313730591531
+    second: ST-Town-I01_16
+  - first:
+      213: 3302576180355163535
+    second: ST-Town-I01_17
+  - first:
+      213: 734748515939100336
+    second: ST-Town-I01_18
+  - first:
+      213: -1543718333687485364
+    second: ST-Town-I01_19
+  - first:
+      213: -2420493945273856170
+    second: ST-Town-I01_20
+  - first:
+      213: 2089814787284609873
+    second: ST-Town-I01_21
+  - first:
+      213: 3645147369543899692
+    second: ST-Town-I01_22
+  - first:
+      213: 935479197881918246
+    second: ST-Town-I01_23
+  - first:
+      213: 1792035252013845976
+    second: ST-Town-I01_24
+  - first:
+      213: 922597018496657400
+    second: ST-Town-I01_25
+  - first:
+      213: -1005500608802530296
+    second: ST-Town-I01_26
+  - first:
+      213: -4852629576523296349
+    second: ST-Town-I01_27
+  - first:
+      213: -1766332403763488548
+    second: ST-Town-I01_28
+  - first:
+      213: -4659552400137370113
+    second: ST-Town-I01_29
+  - first:
+      213: 4968085225128898884
+    second: ST-Town-I01_30
+  - first:
+      213: -4196783937624413990
+    second: ST-Town-I01_31
+  - first:
+      213: 8730403052295918726
+    second: ST-Town-I01_32
+  - first:
+      213: 6233872128412836879
+    second: ST-Town-I01_33
+  - first:
+      213: -7628962872744629312
+    second: ST-Town-I01_34
+  - first:
+      213: -4663198554534961273
+    second: ST-Town-I01_35
+  - first:
+      213: 4333669318139869065
+    second: ST-Town-I01_36
+  - first:
+      213: -1386277866083127244
+    second: ST-Town-I01_37
+  - first:
+      213: -8875902321882287381
+    second: ST-Town-I01_38
+  - first:
+      213: 4753066187634535652
+    second: ST-Town-I01_39
+  - first:
+      213: -7414527532594227845
+    second: ST-Town-I01_40
+  - first:
+      213: 6589818601409979346
+    second: ST-Town-I01_41
+  - first:
+      213: 8105654939424090987
+    second: ST-Town-I01_42
+  - first:
+      213: -9085123708123370014
+    second: ST-Town-I01_43
+  - first:
+      213: 3893328401992021277
+    second: ST-Town-I01_44
+  - first:
+      213: -3780946683667394155
+    second: ST-Town-I01_45
+  - first:
+      213: 7917296964414416201
+    second: ST-Town-I01_46
+  - first:
+      213: -5375876625662946542
+    second: ST-Town-I01_47
+  - first:
+      213: 5500805428609650122
+    second: ST-Town-I01_48
+  - first:
+      213: -8560020349371056829
+    second: ST-Town-I01_49
+  - first:
+      213: -7386229684370092608
+    second: ST-Town-I01_50
+  - first:
+      213: -7120840878750486932
+    second: ST-Town-I01_51
+  - first:
+      213: 5039914083531582580
+    second: ST-Town-I01_52
+  - first:
+      213: 8536183120937863343
+    second: ST-Town-I01_53
+  - first:
+      213: 8417021746969599071
+    second: ST-Town-I01_54
+  - first:
+      213: 4918703495255761892
+    second: ST-Town-I01_55
+  - first:
+      213: -3029233782748265401
+    second: ST-Town-I01_56
+  - first:
+      213: -1054679227772223166
+    second: ST-Town-I01_57
+  - first:
+      213: 1512987890960655950
+    second: ST-Town-I01_58
+  - first:
+      213: 4167691299741021624
+    second: ST-Town-I01_59
+  - first:
+      213: 1234621312963033379
+    second: ST-Town-I01_60
+  - first:
+      213: 8642953881696005864
+    second: ST-Town-I01_61
+  - first:
+      213: -1867959867236337409
+    second: ST-Town-I01_62
+  - first:
+      213: 2569369220436937430
+    second: ST-Town-I01_63
+  - first:
+      213: 5182442261974879626
+    second: ST-Town-I01_64
+  - first:
+      213: -3722946940142840056
+    second: ST-Town-I01_65
+  - first:
+      213: 8482292764865259358
+    second: ST-Town-I01_66
+  - first:
+      213: 1269334485743619266
+    second: ST-Town-I01_67
+  - first:
+      213: 372679575564984190
+    second: ST-Town-I01_68
+  - first:
+      213: 5470637786721291543
+    second: ST-Town-I01_69
+  - first:
+      213: 8290052557247295035
+    second: ST-Town-I01_70
+  - first:
+      213: 8242447917326002978
+    second: ST-Town-I01_71
+  - first:
+      213: 724650247267637102
+    second: ST-Town-I01_72
+  - first:
+      213: 4896274586185229301
+    second: ST-Town-I01_73
+  - first:
+      213: -9161732829140862400
+    second: ST-Town-I01_74
+  - first:
+      213: 3488307526243501158
+    second: ST-Town-I01_75
+  - first:
+      213: 3419363250059329404
+    second: ST-Town-I01_76
+  - first:
+      213: 3947443619000836592
+    second: ST-Town-I01_77
+  - first:
+      213: 5408152405541445139
+    second: ST-Town-I01_78
+  - first:
+      213: 4600873539302884840
+    second: ST-Town-I01_79
+  - first:
+      213: 583650346122566860
+    second: ST-Town-I01_80
+  - first:
+      213: 3776339914828339960
+    second: ST-Town-I01_81
+  - first:
+      213: -7003241213413960148
+    second: ST-Town-I01_82
+  - first:
+      213: 5036284721574405340
+    second: ST-Town-I01_83
+  - first:
+      213: -7189480734183095350
+    second: ST-Town-I01_84
+  - first:
+      213: -6488847654764110479
+    second: ST-Town-I01_85
+  - first:
+      213: -6879161625580534260
+    second: ST-Town-I01_86
+  - first:
+      213: 6227688393193494282
+    second: ST-Town-I01_87
+  - first:
+      213: -5271300603174790613
+    second: ST-Town-I01_88
+  - first:
+      213: -1439390835535473883
+    second: ST-Town-I01_89
+  - first:
+      213: -2442309390936623856
+    second: ST-Town-I01_90
+  - first:
+      213: 854505692416022803
+    second: ST-Town-I01_91
+  - first:
+      213: -6231012956055433957
+    second: ST-Town-I01_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ST-Town-I01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d59d41d496bd2690800000000000000
+      internalID: -7625237843785443888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7862836065b05210800000000000000
+      internalID: 1319754116410534011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1305
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87b5f458887d740800000000000000
+      internalID: 5176756402829097134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1268
+        width: 128
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac8f6af64c3ce60800000000000000
+      internalID: 7981438948452387485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1260
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6646c73a8fef4a60800000000000000
+      internalID: 7660604868100769387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1255
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac926aa1bb9489b50800000000000000
+      internalID: 6600106321866271178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1255
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a6296d332456850800000000000000
+      internalID: 6369570038396119676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1248
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434a911c19b95a370800000000000000
+      internalID: 8333237735831217204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1248
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32801d0ddc1abad50800000000000000
+      internalID: 6749666371888547875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1168
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a42241887f54de00800000000000000
+      internalID: 1068583982762960040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1191
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ff726e3ad79f820800000000000000
+      internalID: 2952529173612592913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1168
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d238cb77c465350800000000000000
+      internalID: 6005071230292667795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1152
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a637829e641928020800000000000000
+      internalID: 2342594489931559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1108
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385dfbe0567368b60800000000000000
+      internalID: 7747941116116194691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f683071fa2b8240800000000000000
+      internalID: 4794973444724256585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1110
+        width: 94
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96b6a9e40bb6aee0800000000000000
+      internalID: -1250106216774453605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1063
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e68ef71d7580a0800000000000000
+      internalID: -6879955313730591531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1059
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f856cb9c98b15dd20800000000000000
+      internalID: 3302576180355163535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1059
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6abc3e1e9523a00800000000000000
+      internalID: 734748515939100336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1025
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cac4fba5c939ae0800000000000000
+      internalID: -1543718333687485364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1003
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fc7f2c49da86ed0800000000000000
+      internalID: -2420493945273856170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1003
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b257a0a73800d10800000000000000
+      internalID: 2089814787284609873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1033
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a1d93483a269230800000000000000
+      internalID: 3645147369543899692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 963
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e484cf5d7bfc00800000000000000
+      internalID: 935479197881918246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1033
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd434d21969ed810800000000000000
+      internalID: 1792035252013845976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 997
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7e356a919bdcc00800000000000000
+      internalID: 922597018496657400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 998
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd2ee068ebb02f0800000000000000
+      internalID: -1005500608802530296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 992
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a156c84c1ff7acb0800000000000000
+      internalID: -4852629576523296349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1000
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd85a66890abc77e0800000000000000
+      internalID: -1766332403763488548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 961
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff54e7987c1f55fb0800000000000000
+      internalID: -4659552400137370113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 962
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441bca1b03f22f440800000000000000
+      internalID: 4968085225128898884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 964
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8e4d68e3702c5c0800000000000000
+      internalID: -4196783937624413990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 962
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6849516025f982970800000000000000
+      internalID: 8730403052295918726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 977
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04614d1ca9238650800000000000000
+      internalID: 6233872128412836879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 973
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba96defaa702690800000000000000
+      internalID: -7628962872744629312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 932
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f14df0f9df84fb0800000000000000
+      internalID: -4663198554534961273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 969
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9877cb9b849442c30800000000000000
+      internalID: 4333669318139869065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 935
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f02820a3f2cce0800000000000000
+      internalID: -1386277866083127244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 935
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be234236dd572d480800000000000000
+      internalID: -8875902321882287381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 935
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec60ebc38846f140800000000000000
+      internalID: 4753066187634535652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 932
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751e523e7e4a1990800000000000000
+      internalID: -7414527532594227845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 945
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3ad478a1db37b50800000000000000
+      internalID: 6589818601409979346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 932
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b6348c8321d7070800000000000000
+      internalID: 8105654939424090987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_43
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 935
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eda3dc5f182be180800000000000000
+      internalID: -9085123708123370014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 928
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157caacd81e70630800000000000000
+      internalID: 3893328401992021277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 906
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59150550601678bc0800000000000000
+      internalID: -3780946683667394155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 906
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945233934a3efdd60800000000000000
+      internalID: 7917296964414416201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 913
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213d80b01bc0565b0800000000000000
+      internalID: -5375876625662946542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 913
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd81de8469c65c40800000000000000
+      internalID: 5500805428609650122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 847
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d7f9d58d2b43980800000000000000
+      internalID: -8560020349371056829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 847
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdcca96c37de7990800000000000000
+      internalID: -7386229684370092608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 899
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e2ff7d2f0bd2d90800000000000000
+      internalID: -7120840878750486932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 844
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c6367082f51f540800000000000000
+      internalID: 5039914083531582580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 842
+        width: 26
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8cf25625d967670800000000000000
+      internalID: 8536183120937863343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 847
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c5cdefea44fc470800000000000000
+      internalID: 8417021746969599071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 846
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3213eb4ceb24440800000000000000
+      internalID: 4918703495255761892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7444da59ceff5f5d0800000000000000
+      internalID: -3029233782748265401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 740
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24147ac84d60d51f0800000000000000
+      internalID: -1054679227772223166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 748
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466d2e78763ff410800000000000000
+      internalID: 1512987890960655950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 740
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5bc8ed72d96d930800000000000000
+      internalID: 4167691299741021624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 749
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b947fa81422110800000000000000
+      internalID: 1234621312963033379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eee29853c0f1f770800000000000000
+      internalID: 8642953881696005864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 695
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff831bac56ca316e0800000000000000
+      internalID: -1867959867236337409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 686
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da47f061bb38a320800000000000000
+      internalID: 2569369220436937430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 675
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0cfd87cbbbe740800000000000000
+      internalID: 5182442261974879626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079823ab7f655cc0800000000000000
+      internalID: -3722946940142840056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 640
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57e8aa145827b570800000000000000
+      internalID: 8482292764865259358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_67
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 640
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc6e35df49d9110800000000000000
+      internalID: 1269334485743619266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f189479160c2500800000000000000
+      internalID: 372679575564984190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 555
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d0a54151c9beb40800000000000000
+      internalID: 5470637786721291543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_70
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 555
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e2b04d0ee2c0370800000000000000
+      internalID: 8290052557247295035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 224
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22befdfd5be036270800000000000000
+      internalID: 8242447917326002978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 519
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6759ce7f897e0a00800000000000000
+      internalID: 724650247267637102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 459
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e7586bcf03f340800000000000000
+      internalID: 4896274586185229301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 256
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a3608688cfad080800000000000000
+      internalID: -9161732829140862400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 241
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664c0199635f86030800000000000000
+      internalID: 3488307526243501158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 241
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fbfc562c4047f20800000000000000
+      internalID: 3419363250059329404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 257
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f16d699e0328c630800000000000000
+      internalID: 3947443619000836592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 257
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ed87f85fd9d0b40800000000000000
+      internalID: 5408152405541445139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 27
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e584a68b1699df30800000000000000
+      internalID: 4600873539302884840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 227
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc5ba1c5ea891800800000000000000
+      internalID: 583650346122566860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_81
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 232
+        width: 114
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fad8760521486430800000000000000
+      internalID: 3776339914828339960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 73
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26d51e983d7fce90800000000000000
+      internalID: -7003241213413960148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd46b29554a74e540800000000000000
+      internalID: 5036284721574405340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3808f1d55d93c90800000000000000
+      internalID: -7189480734183095350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 194
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d9828ff6bf2f5a0800000000000000
+      internalID: -6488847654764110479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0606cae2fe4880a0800000000000000
+      internalID: -6879161625580534260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_87
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 135
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a071f1019913d6650800000000000000
+      internalID: 6227688393193494282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_88
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad67ba70498d6b0800000000000000
+      internalID: -5271300603174790613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 106
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52394fa49a1460ce0800000000000000
+      internalID: -1439390835535473883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0153f918c8c2b1ed0800000000000000
+      internalID: -2442309390936623856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 16
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319910f5660dbdb00800000000000000
+      internalID: 854505692416022803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_92
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8573dabef689a0800000000000000
+      internalID: -6231012956055433957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 64
+        height: 88
+      alignment: 9
+      pivot: {x: 0.50655055, y: 0.50485176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e463566c35c746789d0a89f29380fc9
+      internalID: 190637523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST-Town-I01_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bfd99980e404e13a89f9fa4dde9fc1
+      internalID: -1900147498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6ff2b2fca502143718fbe7055ae004a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ST-Town-I01_0: -7625237843785443888
+      ST-Town-I01_1: 1319754116410534011
+      ST-Town-I01_10: 2952529173612592913
+      ST-Town-I01_11: 6005071230292667795
+      ST-Town-I01_12: 2342594489931559786
+      ST-Town-I01_13: 7747941116116194691
+      ST-Town-I01_14: 4794973444724256585
+      ST-Town-I01_15: -1250106216774453605
+      ST-Town-I01_16: -6879955313730591531
+      ST-Town-I01_17: 3302576180355163535
+      ST-Town-I01_18: 734748515939100336
+      ST-Town-I01_19: -1543718333687485364
+      ST-Town-I01_2: 5176756402829097134
+      ST-Town-I01_20: -2420493945273856170
+      ST-Town-I01_21: 2089814787284609873
+      ST-Town-I01_22: 3645147369543899692
+      ST-Town-I01_23: 935479197881918246
+      ST-Town-I01_24: 1792035252013845976
+      ST-Town-I01_25: 922597018496657400
+      ST-Town-I01_26: -1005500608802530296
+      ST-Town-I01_27: -4852629576523296349
+      ST-Town-I01_28: -1766332403763488548
+      ST-Town-I01_29: -4659552400137370113
+      ST-Town-I01_3: 7981438948452387485
+      ST-Town-I01_30: 4968085225128898884
+      ST-Town-I01_31: -4196783937624413990
+      ST-Town-I01_32: 8730403052295918726
+      ST-Town-I01_33: 6233872128412836879
+      ST-Town-I01_34: -7628962872744629312
+      ST-Town-I01_35: -4663198554534961273
+      ST-Town-I01_36: 4333669318139869065
+      ST-Town-I01_37: -1386277866083127244
+      ST-Town-I01_38: -8875902321882287381
+      ST-Town-I01_39: 4753066187634535652
+      ST-Town-I01_4: 7660604868100769387
+      ST-Town-I01_40: -7414527532594227845
+      ST-Town-I01_41: 6589818601409979346
+      ST-Town-I01_42: 8105654939424090987
+      ST-Town-I01_43: -9085123708123370014
+      ST-Town-I01_44: 3893328401992021277
+      ST-Town-I01_45: -3780946683667394155
+      ST-Town-I01_46: 7917296964414416201
+      ST-Town-I01_47: -5375876625662946542
+      ST-Town-I01_48: 5500805428609650122
+      ST-Town-I01_49: -8560020349371056829
+      ST-Town-I01_5: 6600106321866271178
+      ST-Town-I01_50: -7386229684370092608
+      ST-Town-I01_51: -7120840878750486932
+      ST-Town-I01_52: 5039914083531582580
+      ST-Town-I01_53: 8536183120937863343
+      ST-Town-I01_54: 8417021746969599071
+      ST-Town-I01_55: 4918703495255761892
+      ST-Town-I01_56: -3029233782748265401
+      ST-Town-I01_57: -1054679227772223166
+      ST-Town-I01_58: 1512987890960655950
+      ST-Town-I01_59: 4167691299741021624
+      ST-Town-I01_6: 6369570038396119676
+      ST-Town-I01_60: 1234621312963033379
+      ST-Town-I01_61: 8642953881696005864
+      ST-Town-I01_62: -1867959867236337409
+      ST-Town-I01_63: 2569369220436937430
+      ST-Town-I01_64: 5182442261974879626
+      ST-Town-I01_65: -3722946940142840056
+      ST-Town-I01_66: 8482292764865259358
+      ST-Town-I01_67: 1269334485743619266
+      ST-Town-I01_68: 372679575564984190
+      ST-Town-I01_69: 5470637786721291543
+      ST-Town-I01_7: 8333237735831217204
+      ST-Town-I01_70: 8290052557247295035
+      ST-Town-I01_71: 8242447917326002978
+      ST-Town-I01_72: 724650247267637102
+      ST-Town-I01_73: 4896274586185229301
+      ST-Town-I01_74: -9161732829140862400
+      ST-Town-I01_75: 3488307526243501158
+      ST-Town-I01_76: 3419363250059329404
+      ST-Town-I01_77: 3947443619000836592
+      ST-Town-I01_78: 5408152405541445139
+      ST-Town-I01_79: 4600873539302884840
+      ST-Town-I01_8: 6749666371888547875
+      ST-Town-I01_80: 583650346122566860
+      ST-Town-I01_81: 3776339914828339960
+      ST-Town-I01_82: -7003241213413960148
+      ST-Town-I01_83: 5036284721574405340
+      ST-Town-I01_84: -7189480734183095350
+      ST-Town-I01_85: -6488847654764110479
+      ST-Town-I01_86: -6879161625580534260
+      ST-Town-I01_87: 6227688393193494282
+      ST-Town-I01_88: -5271300603174790613
+      ST-Town-I01_89: -1439390835535473883
+      ST-Town-I01_9: 1068583982762960040
+      ST-Town-I01_90: -2442309390936623856
+      ST-Town-I01_91: 854505692416022803
+      ST-Town-I01_92: -6231012956055433957
+      ST-Town-I01_93: 190637523
+      ST-Town-I01_94: -1900147498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
