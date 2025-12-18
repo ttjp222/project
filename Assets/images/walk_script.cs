@@ -12,6 +12,9 @@ public class PlayerMovement : MonoBehaviour
     float lastMoveX = 0;
     float lastMoveY = -1;
 
+    // 入力を無効化するフラグ
+    public static bool canMove = true;
+
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -32,15 +35,25 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // 入力取得
-        moveX = Input.GetAxisRaw("Horizontal");
-        moveY = Input.GetAxisRaw("Vertical");
-
-        // 移動している時は方向を記憶
-        if (moveX != 0 || moveY != 0)
+        // 移動可能な時のみ入力を受け付ける
+        if (canMove)
         {
-            lastMoveX = moveX;
-            lastMoveY = moveY;
+            // 入力取得
+            moveX = Input.GetAxisRaw("Horizontal");
+            moveY = Input.GetAxisRaw("Vertical");
+
+            // 移動している時は方向を記憶
+            if (moveX != 0 || moveY != 0)
+            {
+                lastMoveX = moveX;
+                lastMoveY = moveY;
+            }
+        }
+        else
+        {
+            // 移動不可の時は入力をゼロに
+            moveX = 0;
+            moveY = 0;
         }
 
         // Blend Treeには常に最後の方向を送る
