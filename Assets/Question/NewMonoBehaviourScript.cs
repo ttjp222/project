@@ -18,7 +18,7 @@ public class DoorPuzzleComplete : MonoBehaviour
     private Transform player;
     private bool isNearby = false;
     private bool isPuzzleSolved = false;
-    private bool isInputActive = false;
+    private bool wasInputFieldClicked = false;
 
     void Start()
     {
@@ -52,6 +52,7 @@ public class DoorPuzzleComplete : MonoBehaviour
             isNearby = true;
             puzzlePanel.SetActive(true);
             answerInput.text = "";
+            PlayerMovement.canMove = true; // 最初は移動可能
             Debug.Log("扉に近づきました");
         }
         // 範囲外に出たらUIを非表示
@@ -60,30 +61,38 @@ public class DoorPuzzleComplete : MonoBehaviour
             isNearby = false;
             puzzlePanel.SetActive(false);
             answerInput.text = "";
-            isInputActive = false;
+            wasInputFieldClicked = false;
             
             // プレイヤー移動を再開
             PlayerMovement.canMove = true;
+            Debug.Log("範囲外 - プレイヤー移動再開");
         }
         
-        // InputFieldがフォーカスされているかチェック
-        if (isNearby)
+        // パネルが表示されている間、InputFieldのフォーカス状態をチェック
+        if (isNearby && puzzlePanel.activeSelf)
         {
+            // InputFieldがフォーカスされているかチェック
             bool isFocused = answerInput.isFocused;
             
-            if (isFocused && !isInputActive)
+            if (isFocused)
             {
-                // 入力開始 - プレイヤー移動停止
-                isInputActive = true;
-                PlayerMovement.canMove = false;
-                Debug.Log("入力中 - プレイヤー移動停止");
+                // フォーカス中は移動停止
+                if (!wasInputFieldClicked)
+                {
+                    wasInputFieldClicked = true;
+                    PlayerMovement.canMove = false;
+                    Debug.Log("入力フィールドフォーカス - プレイヤー移動停止");
+                }
             }
-            else if (!isFocused && isInputActive)
+            else
             {
-                // 入力終了 - プレイヤー移動再開
-                isInputActive = false;
-                PlayerMovement.canMove = true;
-                Debug.Log("入力終了 - プレイヤー移動再開");
+                // フォーカスが外れたら移動再開
+                if (wasInputFieldClicked)
+                {
+                    wasInputFieldClicked = false;
+                    PlayerMovement.canMove = true;
+                    Debug.Log("入力フィールド解除 - プレイヤー移動再開");
+                }
             }
         }
     }
