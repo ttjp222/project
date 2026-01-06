@@ -4,7 +4,7 @@ public class SceneExitTrigger : MonoBehaviour
 {
     [Header("Transition Settings")]
     public string targetSceneName = "NextScene";
-    public string exitDirection = "right";
+    public string exitDirection = "right"; // "left", "right", "up", "down"
     
     [Header("Visual (Optional)")]
     public bool showGizmo = true;

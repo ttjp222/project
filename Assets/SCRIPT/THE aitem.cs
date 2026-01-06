@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class ItemPickup : MonoBehaviour
 {
-    public string itemName = "Key";  // アイテムの名前
+    public string itemName = "鍵";  // ★ここで日本語名を設定★
+    public Sprite itemSprite;
     public float detectionRange = 1.5f;
     
     private Transform player;
@@ -12,8 +13,16 @@ public class ItemPickup : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         
-        // このアイテムが既に取得済みなら非表示
-        if (THEGameManager.Instance != null && THEGameManager.Instance.HasItem(itemName))
+        if (itemSprite == null)
+        {
+            SpriteRenderer sr = GetComponent<SpriteRenderer>();
+            if (sr != null)
+            {
+                itemSprite = sr.sprite;
+            }
+        }
+        
+        if (GameManager.Instance != null && GameManager.Instance.HasItem(itemName))
         {
             Destroy(gameObject);
         }
@@ -25,13 +34,9 @@ public class ItemPickup : MonoBehaviour
 
         float distance = Vector2.Distance(transform.position, player.position);
         
-        if (distance <= detectionRange)
+        if (distance <= detectionRange && Input.GetKeyDown(KeyCode.E))
         {
-            // Eキーで取得
-            if (Input.GetKeyDown(KeyCode.E))
-            {
-                PickupItem();
-            }
+            PickupItem();
         }
     }
 
@@ -39,17 +44,20 @@ public class ItemPickup : MonoBehaviour
     {
         isPickedUp = true;
         
-        // GameManagerに記録
-        if (THEGameManager.Instance != null)
+        if (GameManager.Instance != null)
         {
-            THEGameManager.Instance.AddItem(itemName);
+            GameManager.Instance.AddItem(itemName);
+        }
+        
+        if (InventoryUI.Instance != null)
+        {
+            InventoryUI.Instance.AddItemToUI(itemName, itemSprite);
         }
         
         Debug.Log(itemName + " を取得しました！");
         Destroy(gameObject);
     }
     
-    // 視覚的なフィードバック（オプション）
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;

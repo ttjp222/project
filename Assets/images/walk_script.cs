@@ -15,20 +15,31 @@ public class PlayerMovement : MonoBehaviour
     // 入力を無効化するフラグ
     public static bool canMove = true;
 
-    void Start()
+    void Awake()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+    }
+
+    void Start()
+    {
+        // SceneTransitionがある場合は何もしない
+        if (SceneTransitionManager.Instance != null && 
+            !string.IsNullOrEmpty(SceneTransitionManager.Instance.exitDirection))
+        {
+            Debug.Log("[PlayerMovement] SceneTransition使用中 - 位置復元スキップ");
+            return; // ここで終了
+        }
         
-        // このシーンに保存された位置があれば復元
+        // SceneTransitionがない場合のみGameManagerから復元
         if (GameManager.Instance != null)
         {
             Vector3 savedPos = GameManager.Instance.GetPlayerPosition();
             if (savedPos != Vector3.zero)
             {
                 transform.position = savedPos;
-                Debug.Log("プレイヤー位置を復元: " + savedPos);
+                Debug.Log("[PlayerMovement] プレイヤー位置を復元: " + savedPos);
             }
         }
     }
@@ -82,11 +93,19 @@ public class PlayerMovement : MonoBehaviour
     
     void OnDestroy()
     {
-        // このシーンのプレイヤー位置を保存
+        // SceneTransitionで遷移する場合は位置を保存しない
+        if (SceneTransitionManager.Instance != null && 
+            !string.IsNullOrEmpty(SceneTransitionManager.Instance.exitDirection))
+        {
+            Debug.Log("[PlayerMovement] SceneTransition使用中 - 位置保存スキップ");
+            return;
+        }
+        
+        // 通常時のみシーンのプレイヤー位置を保存
         if (GameManager.Instance != null)
         {
             GameManager.Instance.SavePlayerPosition(transform.position);
-            Debug.Log("プレイヤー位置を保存: " + transform.position);
+            Debug.Log("[PlayerMovement] プレイヤー位置を保存: " + transform.position);
         }
     }
 }

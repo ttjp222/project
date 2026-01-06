@@ -4,8 +4,8 @@ using UnityEngine.SceneManagement;
 public class SceneChanger : MonoBehaviour
 {
     public string sceneName;
-    private static float lastSceneChangeTime = -999f;  // staticを戻す
-    public float cooldown = 0.00000000000001f;  // 少し短めに
+    private static float lastSceneChangeTime = -999f;
+    public float cooldown = 0.5f;  // 0.5秒で十分です
 
     void OnTriggerEnter2D(Collider2D collision)
     {
@@ -15,6 +15,14 @@ public class SceneChanger : MonoBehaviour
             {
                 Debug.Log(sceneName + "に移動します");
                 lastSceneChangeTime = Time.time;
+                
+                // SceneTransitionManagerの情報をクリア
+                if (SceneTransitionManager.Instance != null)
+                {
+                    SceneTransitionManager.Instance.exitDirection = "";
+                    Debug.Log("[SceneChanger] SceneTransition情報をクリア");
+                }
+                
                 SceneManager.LoadScene(sceneName);
             }
         }
