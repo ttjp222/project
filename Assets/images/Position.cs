@@ -2,9 +2,9 @@ using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
-public class GameManager : MonoBehaviour
+public class THEGameManager : MonoBehaviour
 {
-    public static GameManager Instance;
+    public static THEGameManager Instance;
     
     // シーンごとのデータ
     // キー：シーン名、値：そのシーンで消えたオブジェクトのリスト

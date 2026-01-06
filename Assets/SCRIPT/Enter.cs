@@ -3,12 +3,12 @@ using UnityEngine;
 public class SceneEntryPoint : MonoBehaviour
 {
     [Header("Entry Point Settings")]
-    public string entryType = "left";
-    public float spawnX = 0f;
-    public float spawnY = 0f;
+    public string entryType = "left"; // "left", "right", "up", "down"
+    public float spawnX = 0f; // このエントリーポイントのX座標
+    public float spawnY = 0f; // このエントリーポイントのY座標（上下用）
     
     [Header("Auto Setup (Optional)")]
-    public bool useTransformPosition = true;
+    public bool useTransformPosition = true; // このオブジェクトの位置を使う
     
     void Start()
     {
@@ -18,10 +18,12 @@ public class SceneEntryPoint : MonoBehaviour
             spawnY = transform.position.y;
         }
         
+        // このシーンに入った時の処理
         if (SceneTransitionManager.Instance != null)
         {
             string exitDir = SceneTransitionManager.Instance.exitDirection;
             
+            // 前のシーンの出口方向と一致するか確認
             bool shouldSpawnHere = false;
             
             if (exitDir == "right" && entryType == "left") shouldSpawnHere = true;
@@ -36,11 +38,13 @@ public class SceneEntryPoint : MonoBehaviour
                 {
                     Vector3 newPos = player.transform.position;
                     
+                    // 左右の遷移：X座標を変更、Y座標を維持
                     if (exitDir == "right" || exitDir == "left")
                     {
                         newPos.x = spawnX;
                         newPos.y = SceneTransitionManager.Instance.playerYPosition;
                     }
+                    // 上下の遷移：Y座標を変更、X座標を維持
                     else if (exitDir == "up" || exitDir == "down")
                     {
                         newPos.y = spawnY;

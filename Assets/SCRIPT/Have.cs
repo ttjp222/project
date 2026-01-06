@@ -2,9 +2,9 @@ using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 
-public class THEGameManager : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
-    public static THEGameManager Instance;
+    public static GameManager Instance;
     
     // プレイヤーの位置を保存
     public Vector3 playerPosition;
@@ -15,7 +15,7 @@ public class THEGameManager : MonoBehaviour
     // シーンごとのプレイヤー位置
     public Dictionary<string, Vector3> scenePlayerPositions = new Dictionary<string, Vector3>();
     
-    // アイテムのリスト（追加）
+    // アイテムのリスト
     public List<string> inventory = new List<string>();
     
     void Awake()

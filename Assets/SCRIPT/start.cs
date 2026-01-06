@@ -5,9 +5,10 @@ public class SceneTransitionManager : MonoBehaviour
 {
     public static SceneTransitionManager Instance { get; private set; }
     
-    public string exitDirection = "";
-    public float playerYPosition = 0f;
-    public float playerXPosition = 0f;
+    // 遷移情報
+    public string exitDirection = ""; // "left", "right", "up", "down"
+    public float playerYPosition = 0f; // プレイヤーのY座標
+    public float playerXPosition = 0f; // プレイヤーのX座標
     
     void Awake()
     {
@@ -22,6 +23,7 @@ public class SceneTransitionManager : MonoBehaviour
         }
     }
     
+    // シーン遷移を実行
     public void TransitionToScene(string sceneName, string direction, Vector3 playerPosition)
     {
         exitDirection = direction;

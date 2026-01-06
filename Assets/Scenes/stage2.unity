@@ -655,7 +655,7 @@ Animator:
   m_GameObject: {fileID: 161953523}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 14e5ec5642d2b40709c90c0f974a83e5, type: 2}
+  m_Controller: {fileID: 9100000, guid: c2ef8e97aca77446bb9e30fd33bef081, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1319,7 +1319,7 @@ Transform:
   m_GameObject: {fileID: 281344782}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.31, y: -2.51, z: 0}
+  m_LocalPosition: {x: 7.19, y: -2.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4222,7 +4222,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.3, y: 1}
   m_EdgeRadius: 0
 --- !u!4 &1998577135
 Transform:
@@ -4233,7 +4233,7 @@ Transform:
   m_GameObject: {fileID: 1998577133}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.3, y: -2.5, z: 0}
+  m_LocalPosition: {x: 7.99, y: -2.47, z: 0}
   m_LocalScale: {x: 1, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

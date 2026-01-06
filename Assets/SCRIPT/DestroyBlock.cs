@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class BlockWithItem : MonoBehaviour
 {
-    public string requiredItem = "Key";  // 必要なアイテム
+    public string requiredItem = "Key";
     public float detectionRange = 2f;
     
     private Transform player;
@@ -12,8 +12,7 @@ public class BlockWithItem : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         
-        // このブロックが既に消えていたら非表示
-        if (THEGameManager.Instance != null && THEGameManager.Instance.IsDestroyed(gameObject.name))
+        if (GameManager.Instance != null && GameManager.Instance.IsDestroyed(gameObject.name))
         {
             Destroy(gameObject);
         }
@@ -28,14 +27,12 @@ public class BlockWithItem : MonoBehaviour
         if (distance <= detectionRange && !isNearby)
         {
             isNearby = true;
-            Debug.Log("ブロックに近づきました。" + requiredItem + " を使うにはEキーを押してください");
         }
         else if (distance > detectionRange && isNearby)
         {
             isNearby = false;
         }
         
-        // 近くにいて、アイテムを持っている場合
         if (isNearby && Input.GetKeyDown(KeyCode.E))
         {
             TryUseItem();
@@ -44,13 +41,17 @@ public class BlockWithItem : MonoBehaviour
 
     void TryUseItem()
     {
-        if (THEGameManager.Instance != null && THEGameManager.Instance.HasItem(requiredItem))
+        if (GameManager.Instance != null && GameManager.Instance.HasItem(requiredItem))
         {
-            // アイテムを使用
-            THEGameManager.Instance.UseItem(requiredItem);
+            GameManager.Instance.UseItem(requiredItem);
             
-            // ブロックを記録して削除
-            THEGameManager.Instance.RegisterDestroyed(gameObject.name);
+            // UIから削除
+            if (InventoryUI.Instance != null)
+            {
+                InventoryUI.Instance.RemoveItemFromUI(requiredItem);
+            }
+            
+            GameManager.Instance.RegisterDestroyed(gameObject.name);
             
             Debug.Log(requiredItem + " を使ってブロックを破壊しました！");
             Destroy(gameObject);
