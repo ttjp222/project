@@ -6,17 +6,15 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
     
-    // プレイヤーの位置を保存
     public Vector3 playerPosition;
-    
-    // 消えたオブジェクトの名前リスト
     public Dictionary<string, List<string>> sceneDestroyedObjects = new Dictionary<string, List<string>>();
-    
-    // シーンごとのプレイヤー位置
     public Dictionary<string, Vector3> scenePlayerPositions = new Dictionary<string, Vector3>();
     
-    // アイテムのリスト
+    // アイテム名のリスト
     public List<string> inventory = new List<string>();
+    
+    // アイテム名とSpriteの辞書（追加）
+    private Dictionary<string, Sprite> itemSprites = new Dictionary<string, Sprite>();
     
     void Awake()
     {
@@ -36,12 +34,19 @@ public class GameManager : MonoBehaviour
         return SceneManager.GetActiveScene().name;
     }
     
-    // アイテムを追加
-    public void AddItem(string itemName)
+    // アイテムを追加（Sprite付き）
+    public void AddItem(string itemName, Sprite itemSprite)
     {
         if (!inventory.Contains(itemName))
         {
             inventory.Add(itemName);
+            
+            // Spriteも保存
+            if (itemSprite != null)
+            {
+                itemSprites[itemName] = itemSprite;
+            }
+            
             Debug.Log(itemName + " を入手しました");
         }
     }
@@ -52,17 +57,33 @@ public class GameManager : MonoBehaviour
         return inventory.Contains(itemName);
     }
     
+    // アイテムのSpriteを取得（追加）
+    public Sprite GetItemSprite(string itemName)
+    {
+        if (itemSprites.ContainsKey(itemName))
+        {
+            return itemSprites[itemName];
+        }
+        return null;
+    }
+    
     // アイテムを使用（削除）
     public void UseItem(string itemName)
     {
         if (inventory.Contains(itemName))
         {
             inventory.Remove(itemName);
+            
+            // Spriteも削除
+            if (itemSprites.ContainsKey(itemName))
+            {
+                itemSprites.Remove(itemName);
+            }
+            
             Debug.Log(itemName + " を使用しました");
         }
     }
     
-    // オブジェクトが消えたことを記録
     public void RegisterDestroyed(string objectName)
     {
         string sceneName = GetCurrentSceneName();
@@ -75,11 +96,9 @@ public class GameManager : MonoBehaviour
         if (!sceneDestroyedObjects[sceneName].Contains(objectName))
         {
             sceneDestroyedObjects[sceneName].Add(objectName);
-            Debug.Log(sceneName + "で" + objectName + "を記録");
         }
     }
     
-    // このシーンでこのオブジェクトは消えているか？
     public bool IsDestroyed(string objectName)
     {
         string sceneName = GetCurrentSceneName();
@@ -91,14 +110,12 @@ public class GameManager : MonoBehaviour
         return false;
     }
     
-    // プレイヤー位置を保存
     public void SavePlayerPosition(Vector3 position)
     {
         string sceneName = GetCurrentSceneName();
         scenePlayerPositions[sceneName] = position;
     }
     
-    // プレイヤー位置を取得
     public Vector3 GetPlayerPosition()
     {
         string sceneName = GetCurrentSceneName();
