@@ -23,19 +23,20 @@ public class InventoryUI : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    
+
     void Start()
     {
-        // 起動時にGameManagerからアイテムを復元
+    // GameManagerからアイテムを復元（Sprite付き）
         if (GameManager.Instance != null)
         {
             foreach (string itemName in GameManager.Instance.inventory)
             {
-                AddItemToUI(itemName, null);
-            }
+                Sprite itemSprite = GameManager.Instance.GetItemSprite(itemName);
+                AddItemToUI(itemName, itemSprite);
+            }  
         }
     }
-    
+   
     // アイテムをUIに追加
     public void AddItemToUI(string itemName, Sprite itemSprite)
     {

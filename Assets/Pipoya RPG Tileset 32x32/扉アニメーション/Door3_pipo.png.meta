@@ -64,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +102,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -145,10 +145,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 289
-        width: 91
+        width: 64
         height: 81
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -165,12 +165,12 @@ TextureImporter:
       name: Door3_pipo_1
       rect:
         serializedVersion: 2
-        x: 101
+        x: 64
         y: 292
-        width: 40
+        width: 64
         height: 85
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -187,12 +187,12 @@ TextureImporter:
       name: Door3_pipo_2
       rect:
         serializedVersion: 2
-        x: 179
-        y: 294
-        width: 14
-        height: 83
+        x: 128
+        y: 291
+        width: 65
+        height: 86
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -210,11 +210,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 193
-        width: 90
-        height: 81
+        y: 192
+        width: 64
+        height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,12 +231,12 @@ TextureImporter:
       name: Door3_pipo_4
       rect:
         serializedVersion: 2
-        x: 102
-        y: 196
-        width: 35
-        height: 85
+        x: 64
+        y: 194
+        width: 65
+        height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -253,12 +253,12 @@ TextureImporter:
       name: Door3_pipo_5
       rect:
         serializedVersion: 2
-        x: 183
-        y: 198
-        width: 10
-        height: 83
+        x: 129
+        y: 197
+        width: 64
+        height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -277,10 +277,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 97
-        width: 90
+        width: 64
         height: 81
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -297,12 +297,12 @@ TextureImporter:
       name: Door3_pipo_7
       rect:
         serializedVersion: 2
-        x: 102
-        y: 100
-        width: 35
-        height: 85
+        x: 64
+        y: 97
+        width: 64
+        height: 81
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,12 +319,12 @@ TextureImporter:
       name: Door3_pipo_8
       rect:
         serializedVersion: 2
-        x: 183
-        y: 102
-        width: 10
-        height: 83
+        x: 128
+        y: 98
+        width: 65
+        height: 87
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -343,10 +343,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 193
+        width: 64
         height: 97
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -359,11 +359,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Door3_pipo_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 21
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df4572774204325949c237ad32be4c
+      internalID: -1098594099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0db0c814f8d27460391eebee86b1d0e3
     internalID: 0
     vertices: []
     indices: 
@@ -375,6 +397,7 @@ TextureImporter:
     nameFileIdTable:
       Door3_pipo_0: -7922249868456263056
       Door3_pipo_1: -8874591006256047902
+      Door3_pipo_10: -1098594099
       Door3_pipo_2: 6336805157105211229
       Door3_pipo_3: -5447295280265812551
       Door3_pipo_4: 1738148663130413976
