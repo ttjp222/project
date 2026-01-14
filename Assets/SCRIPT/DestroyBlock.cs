@@ -27,38 +27,13 @@ public class BlockWithItem : MonoBehaviour
         if (distance <= detectionRange && !isNearby)
         {
             isNearby = true;
+            Debug.Log("ブロックにちかづきました。" + requiredItem + " を数字キーで使用してください");
         }
         else if (distance > detectionRange && isNearby)
         {
             isNearby = false;
         }
         
-        if (isNearby && Input.GetKeyDown(KeyCode.E))
-        {
-            TryUseItem();
-        }
-    }
-
-    void TryUseItem()
-    {
-        if (GameManager.Instance != null && GameManager.Instance.HasItem(requiredItem))
-        {
-            GameManager.Instance.UseItem(requiredItem);
-            
-            // UIから削除
-            if (InventoryUI.Instance != null)
-            {
-                InventoryUI.Instance.RemoveItemFromUI(requiredItem);
-            }
-            
-            GameManager.Instance.RegisterDestroyed(gameObject.name);
-            
-            Debug.Log(requiredItem + " を使ってブロックを破壊しました！");
-            Destroy(gameObject);
-        }
-        else
-        {
-            Debug.Log(requiredItem + " が必要です");
-        }
+        // Eキーでの使用を削除（数字キーのみに）
     }
 }
