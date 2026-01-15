@@ -5,14 +5,33 @@ public class BlockWithItem : MonoBehaviour
     public string requiredItem = "Key";
     public float detectionRange = 2f;
     
+    [Header("一意のID（自動生成）")]
+    public string blockID;
+    
     private Transform player;
     private bool isNearby = false;
 
+    void OnValidate()
+    {
+        // IDが空の場合、自動生成
+        if (string.IsNullOrEmpty(blockID))
+        {
+            blockID = gameObject.name + "_" + transform.position.x + "_" + transform.position.y;
+        }
+    }
+
     void Start()
     {
-        player = GameObject.FindGameObjectWithTag("Player").transform;
+        player = GameObject.FindGameObjectWithTag("Player")?.transform;
         
-        if (GameManager.Instance != null && GameManager.Instance.IsDestroyed(gameObject.name))
+        // IDが設定されていない場合は生成
+        if (string.IsNullOrEmpty(blockID))
+        {
+            blockID = gameObject.name + "_" + transform.position.x + "_" + transform.position.y;
+        }
+        
+        // GameManagerに破壊済みか確認
+        if (GameManager.Instance != null && GameManager.Instance.IsDestroyed(blockID))
         {
             Destroy(gameObject);
         }
@@ -33,7 +52,17 @@ public class BlockWithItem : MonoBehaviour
         {
             isNearby = false;
         }
+    }
+
+    // ブロックが破壊されたときに呼ばれる
+    public void DestroyBlock()
+    {
+        // GameManagerに破壊を記録
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.MarkAsDestroyed(blockID);
+        }
         
-        // Eキーでの使用を削除（数字キーのみに）
+        Destroy(gameObject);
     }
 }

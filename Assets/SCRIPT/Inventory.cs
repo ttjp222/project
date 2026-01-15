@@ -167,7 +167,8 @@ public class InventoryUI : MonoBehaviour
             BlockWithItem block = col.GetComponent<BlockWithItem>();
             if (block != null && block.requiredItem == itemName)
             {
-                Destroy(col.gameObject);
+                // 永続化対応：BlockWithItemのDestroyBlock()を呼ぶ
+                block.DestroyBlock();
                 Debug.Log("ブロックをはかいしました");
                 return;
             }
