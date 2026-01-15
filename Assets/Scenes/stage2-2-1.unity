@@ -1063,7 +1063,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InventoryUI
   inventoryPanel: {fileID: 12904221}
-  itemSlotPrefab: {fileID: 114014331842117627, guid: 0e53abd6baa2044429b2ccc6d0f93f8a,
+  itemSlotPrefab: {fileID: 6717299477672221603, guid: 0e53abd6baa2044429b2ccc6d0f93f8a,
     type: 3}
   itemContainer: {fileID: 193782407}
   confirmDialog: {fileID: 680197475}
