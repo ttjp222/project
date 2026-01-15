@@ -13,10 +13,10 @@ public class BlockWithItem : MonoBehaviour
 
     void OnValidate()
     {
-        // IDが空の場合、自動生成
+        // IDが空の場合、自動生成（エディタでのみ実行）
         if (string.IsNullOrEmpty(blockID))
         {
-            blockID = gameObject.name + "_" + transform.position.x + "_" + transform.position.y;
+            blockID = gameObject.name + "_" + transform.position.x.ToString("F2") + "_" + transform.position.y.ToString("F2");
         }
     }
 
@@ -27,12 +27,15 @@ public class BlockWithItem : MonoBehaviour
         // IDが設定されていない場合は生成
         if (string.IsNullOrEmpty(blockID))
         {
-            blockID = gameObject.name + "_" + transform.position.x + "_" + transform.position.y;
+            blockID = gameObject.name + "_" + transform.position.x.ToString("F2") + "_" + transform.position.y.ToString("F2");
         }
+        
+        Debug.Log("BlockWithItem Start: " + gameObject.name + " / blockID: " + blockID);
         
         // GameManagerに破壊済みか確認
         if (GameManager.Instance != null && GameManager.Instance.IsDestroyed(blockID))
         {
+            Debug.Log("このブロックは既に破壊済みです: " + blockID);
             Destroy(gameObject);
         }
     }

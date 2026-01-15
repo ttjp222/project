@@ -1,37 +1,60 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
+[RequireComponent(typeof(PlayerInput))]
 public class PlayerMovement : MonoBehaviour
 {
+    //-------------------------------------
+    [Header("Movement Settings")]
     public float speed = 3f;
-    Animator anim;
-    Rigidbody2D rb;
-    SpriteRenderer sr;
 
-    float moveX;
-    float moveY;
-    float lastMoveX = 0;
-    float lastMoveY = -1;
+    [Header("Input System")]
+    public bool useNewInputSystem = true; // trueならInput System、falseなら旧Input
+    //-------------------------------------
+
+    private Animator anim;
+    private Rigidbody2D rb;
+    private SpriteRenderer sr;
+
+    private Vector2 moveInput;
+    private float moveX;
+    private float moveY;
+    private float lastMoveX = 0;
+    private float lastMoveY = -1;
 
     // 入力を無効化するフラグ
     public static bool canMove = true;
+
+    // ★★ 追加：押す方向判定用（外部参照OK） ★★
+    public Vector2 LastMoveDirection
+    {
+        get
+        {
+            return new Vector2(lastMoveX, lastMoveY).normalized;
+        }
+    }
 
     void Awake()
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+
+        // 重力と回転を無効化
+        rb.gravityScale = 0;
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
     }
 
     void Start()
     {
         // SceneTransitionがある場合は何もしない
-        if (SceneTransitionManager.Instance != null && 
+        if (SceneTransitionManager.Instance != null &&
             !string.IsNullOrEmpty(SceneTransitionManager.Instance.exitDirection))
         {
             Debug.Log("[PlayerMovement] SceneTransition使用中 - 位置復元スキップ");
-            return; // ここで終了
+            return;
         }
-        
+
         // SceneTransitionがない場合のみGameManagerから復元
         if (GameManager.Instance != null)
         {
@@ -44,14 +67,14 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    void Update()
+    // 新Input System用
+    public void OnMove(InputValue value)
     {
-        // 移動可能な時のみ入力を受け付ける
-        if (canMove)
+        if (useNewInputSystem && canMove)
         {
-            // 入力取得
-            moveX = Input.GetAxisRaw("Horizontal");
-            moveY = Input.GetAxisRaw("Vertical");
+            moveInput = value.Get<Vector2>();
+            moveX = moveInput.x;
+            moveY = moveInput.y;
 
             // 移動している時は方向を記憶
             if (moveX != 0 || moveY != 0)
@@ -60,22 +83,55 @@ public class PlayerMovement : MonoBehaviour
                 lastMoveY = moveY;
             }
         }
-        else
+        else if (!canMove)
         {
-            // 移動不可の時は入力をゼロに
+            moveInput = Vector2.zero;
             moveX = 0;
             moveY = 0;
         }
+    }
 
-        // Blend Treeには常に最後の方向を送る
-        anim.SetFloat("MoveX", lastMoveX);
-        anim.SetFloat("MoveY", lastMoveY);
+    void Update()
+    {
+        // 旧Input Managerを使う場合
+        if (!useNewInputSystem)
+        {
+            if (canMove)
+            {
+                moveX = Input.GetAxisRaw("Horizontal");
+                moveY = Input.GetAxisRaw("Vertical");
+
+                // 移動している時は方向を記憶
+                if (moveX != 0 || moveY != 0)
+                {
+                    lastMoveX = moveX;
+                    lastMoveY = moveY;
+                }
+            }
+            else
+            {
+                moveX = 0;
+                moveY = 0;
+            }
+        }
+
+        // Animatorがあれば更新
+        if (anim != null)
+        {
+            anim.SetFloat("MoveX", lastMoveX);
+            anim.SetFloat("MoveY", lastMoveY);
+        }
     }
 
     void LateUpdate()
     {
         // 左右の向きを保持
-        if (lastMoveX < 0)
+        if (moveX != 0)
+        {
+            sr.flipX = moveX < 0;
+        }
+        // lastMoveXも使う（止まっている時用）
+        else if (lastMoveX < 0)
         {
             sr.flipX = true;
         }
@@ -87,20 +143,20 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        // 移動処理
+        // 移動処理（canMoveがfalseなら自動的に0になる）
         rb.linearVelocity = new Vector2(moveX, moveY) * speed;
     }
-    
+
     void OnDestroy()
     {
         // SceneTransitionで遷移する場合は位置を保存しない
-        if (SceneTransitionManager.Instance != null && 
+        if (SceneTransitionManager.Instance != null &&
             !string.IsNullOrEmpty(SceneTransitionManager.Instance.exitDirection))
         {
             Debug.Log("[PlayerMovement] SceneTransition使用中 - 位置保存スキップ");
             return;
         }
-        
+
         // 通常時のみシーンのプレイヤー位置を保存
         if (GameManager.Instance != null)
         {

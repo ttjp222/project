@@ -7,6 +7,7 @@ public class GameData
 {
     public List<string> inventory = new List<string>();
     public List<string> destroyedBlocks = new List<string>();
+    public List<string> transformedBlocks = new List<string>(); // 追加
 }
 
 public class GameManager : MonoBehaviour
@@ -25,6 +26,9 @@ public class GameManager : MonoBehaviour
     
     // 永続的に破壊されたブロックのリスト
     private List<string> destroyedBlocks = new List<string>();
+    
+    // 永続的に変換されたブロックのリスト
+    private List<string> transformedBlocks = new List<string>();
     
     void Awake()
     {
@@ -155,6 +159,27 @@ public class GameManager : MonoBehaviour
     }
     
     // ============================================
+    // ブロック変換（新機能）
+    // ============================================
+    
+    // ブロックを変換済みとしてマーク
+    public void MarkAsTransformed(string blockID)
+    {
+        if (!transformedBlocks.Contains(blockID))
+        {
+            transformedBlocks.Add(blockID);
+            SaveGame();
+            Debug.Log(blockID + " を変換済みリストに追加しました");
+        }
+    }
+    
+    // ブロックが変換済みかチェック
+    public bool IsTransformed(string blockID)
+    {
+        return transformedBlocks.Contains(blockID);
+    }
+    
+    // ============================================
     // プレイヤー位置管理
     // ============================================
     
@@ -184,6 +209,7 @@ public class GameManager : MonoBehaviour
         GameData data = new GameData();
         data.inventory = new List<string>(inventory);
         data.destroyedBlocks = new List<string>(destroyedBlocks);
+        data.transformedBlocks = new List<string>(transformedBlocks); // 追加
         
         string json = JsonUtility.ToJson(data);
         PlayerPrefs.SetString("GameData", json);
@@ -201,10 +227,12 @@ public class GameManager : MonoBehaviour
             
             inventory = data.inventory != null ? data.inventory : new List<string>();
             destroyedBlocks = data.destroyedBlocks != null ? data.destroyedBlocks : new List<string>();
+            transformedBlocks = data.transformedBlocks != null ? data.transformedBlocks : new List<string>(); // 追加
             
             Debug.Log("ゲームデータを読み込みました");
             Debug.Log("インベントリ数: " + inventory.Count);
             Debug.Log("破壊済みブロック数: " + destroyedBlocks.Count);
+            Debug.Log("変換済みブロック数: " + transformedBlocks.Count); // 追加
         }
     }
     
@@ -214,6 +242,7 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.DeleteKey("GameData");
         inventory.Clear();
         destroyedBlocks.Clear();
+        transformedBlocks.Clear(); // 追加
         itemSprites.Clear();
         Debug.Log("セーブデータをリセットしました");
     }

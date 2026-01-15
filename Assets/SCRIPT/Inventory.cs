@@ -149,8 +149,14 @@ public class InventoryUI : MonoBehaviour
         Collider2D[] colliders = Physics2D.OverlapCircleAll(player.transform.position, 2f);
         foreach (Collider2D col in colliders)
         {
+            // BlockWithItem（破壊用）をチェック
             BlockWithItem block = col.GetComponent<BlockWithItem>();
             if (block != null && block.requiredItem == itemName)
+                return true;
+            
+            // BlockTransform（変換用）をチェック
+            BlockTransform transform = col.GetComponent<BlockTransform>();
+            if (transform != null && transform.requiredItem == itemName)
                 return true;
         }
         return false;
@@ -164,12 +170,21 @@ public class InventoryUI : MonoBehaviour
         Collider2D[] colliders = Physics2D.OverlapCircleAll(player.transform.position, 2f);
         foreach (Collider2D col in colliders)
         {
+            // BlockWithItem（破壊）をチェック
             BlockWithItem block = col.GetComponent<BlockWithItem>();
             if (block != null && block.requiredItem == itemName)
             {
-                // 永続化対応：BlockWithItemのDestroyBlock()を呼ぶ
                 block.DestroyBlock();
-                Debug.Log("ブロックをはかいしました");
+                Debug.Log("ブロックを破壊しました");
+                return;
+            }
+            
+            // BlockTransform（変換）をチェック
+            BlockTransform transformBlock = col.GetComponent<BlockTransform>();
+            if (transformBlock != null && transformBlock.requiredItem == itemName)
+            {
+                transformBlock.TransformBlock();
+                Debug.Log("ブロックを変換しました");
                 return;
             }
         }

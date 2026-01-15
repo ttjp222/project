@@ -2318,7 +2318,6 @@ GameObject:
   - component: {fileID: 973456631}
   - component: {fileID: 973456630}
   - component: {fileID: 973456629}
-  - component: {fileID: 973456628}
   m_Layer: 0
   m_Name: pipo-charachip001a_0
   m_TagString: Player
@@ -2326,19 +2325,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &973456628
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 973456627}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ae8db4ee3858463c8ff80fea4007b60, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::OnKeyPressMove
-  speed: 4
 --- !u!114 &973456629
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2352,6 +2338,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   speed: 3
+  useNewInputSystem: 1
 --- !u!95 &973456630
 Animator:
   serializedVersion: 7
@@ -2472,7 +2459,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2

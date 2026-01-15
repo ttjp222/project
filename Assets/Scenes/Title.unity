@@ -235,6 +235,7 @@ GameObject:
   - component: {fileID: 584248315}
   - component: {fileID: 584248314}
   - component: {fileID: 584248313}
+  - component: {fileID: 584248316}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -305,7 +306,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 584248314}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1340038560}
+        m_TargetAssemblyTypeName: SceneController, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: stage1
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &584248314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -344,6 +357,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 584248311}
   m_CullTransparentMesh: 1
+--- !u!114 &584248316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 584248311}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b897c9499508f464aaa93a9ba0f82f68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneController
 --- !u!1 &748916783
 GameObject:
   m_ObjectHideFlags: 0
@@ -3218,7 +3243,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1741663089}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1340038560}
+        m_TargetAssemblyTypeName: SceneController, Assembly-CSharp
+        m_MethodName: OnQuitButtonClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1741663089
 MonoBehaviour:
   m_ObjectHideFlags: 0
