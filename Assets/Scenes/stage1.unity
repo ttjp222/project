@@ -7059,6 +7059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BlockWithItem
   requiredItem: "\u304A\u306E"
   detectionRange: 1
+  blockID: TX Props Rune Pillar Broken_0_1.65
 --- !u!114 &1339178742
 MonoBehaviour:
   m_ObjectHideFlags: 0
