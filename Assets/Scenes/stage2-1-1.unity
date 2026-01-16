@@ -2057,6 +2057,56 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 418941776}
   m_CullTransparentMesh: 1
+--- !u!1 &452140124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 452140126}
+  - component: {fileID: 452140125}
+  m_Layer: 0
+  m_Name: Conbination
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &452140125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 452140124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d230fff77fcd4dfaa329ab29fa1875c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemCombination
+  recipes:
+  - item1: "\u3088\u3054\u308C\u305F\u304B\u307F"
+    item2: "\u305B\u3093\u3056\u3044"
+    resultItem: "\u304D\u308C\u3044\u306A\u304B\u307F"
+    resultSprite: {fileID: -8561289038441490638, guid: ec5131d2bd359467eb4da32d77c90611,
+      type: 3}
+--- !u!4 &452140126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 452140124}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.07031, y: 1.04485, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &464909335
 GameObject:
   m_ObjectHideFlags: 0
@@ -3499,8 +3549,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BlockTransform
   requiredItem: "\u3088\u304F\u3058\u3087\u3046\u306E\u304B\u304E"
-  transformedObject: {fileID: 757709190}
   detectionRange: 2
+  afterBlock: {fileID: 0}
   blockID: ST-Libry-I01_77_-1.08_1.88
 --- !u!1 &972518200
 GameObject:
@@ -6299,3 +6349,4 @@ SceneRoots:
   - {fileID: 1245651693}
   - {fileID: 983801770}
   - {fileID: 966741728}
+  - {fileID: 452140126}
