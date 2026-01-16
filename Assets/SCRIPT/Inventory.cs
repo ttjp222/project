@@ -20,6 +20,11 @@ public class InventoryUI : MonoBehaviour
     private List<string> itemOrder = new List<string>();
     private string pendingItemName = "";
     private PlayerMovement playerMovement;
+    
+    [Header("拡大演出")]
+    public float zoomScale = 2f;
+    public float zoomDuration = 0.3f;
+    private bool isZooming = false;
 
     void Awake()
     {
@@ -57,6 +62,9 @@ public class InventoryUI : MonoBehaviour
     void Update()
     {
         if (confirmDialog != null && confirmDialog.activeSelf)
+            return;
+        
+        if (isZooming)
             return;
 
         for (int i = 1; i <= 9; i++)
@@ -101,7 +109,9 @@ public class InventoryUI : MonoBehaviour
     void OnConfirmYes()
     {
         if (!string.IsNullOrEmpty(pendingItemName))
-            TryUseItem(pendingItemName);
+        {
+            StartCoroutine(ZoomAndUseItem(pendingItemName));
+        }
 
         CloseDialog();
     }
@@ -122,8 +132,80 @@ public class InventoryUI : MonoBehaviour
         pendingItemName = "";
     }
 
+    System.Collections.IEnumerator ZoomAndUseItem(string itemName)
+    {
+        isZooming = true;
+
+        // アイテムスロットを取得
+        GameObject itemSlot = null;
+        if (itemSlots.ContainsKey(itemName))
+        {
+            itemSlot = itemSlots[itemName];
+        }
+
+        if (itemSlot != null)
+        {
+            Vector3 originalScale = itemSlot.transform.localScale;
+            Vector3 targetScale = originalScale * zoomScale;
+            float elapsed = 0f;
+
+            // 拡大アニメーション
+            while (elapsed < zoomDuration / 2f)
+            {
+                elapsed += Time.deltaTime;
+                float t = elapsed / (zoomDuration / 2f);
+                itemSlot.transform.localScale = Vector3.Lerp(originalScale, targetScale, t);
+                yield return null;
+            }
+
+            itemSlot.transform.localScale = targetScale;
+
+            // 少し待機
+            yield return new WaitForSeconds(0.1f);
+
+            // 縮小アニメーション
+            elapsed = 0f;
+            while (elapsed < zoomDuration / 2f)
+            {
+                elapsed += Time.deltaTime;
+                float t = elapsed / (zoomDuration / 2f);
+                itemSlot.transform.localScale = Vector3.Lerp(targetScale, originalScale, t);
+                yield return null;
+            }
+
+            if (itemSlot != null) // アイテムがまだ存在する場合
+            {
+                itemSlot.transform.localScale = originalScale;
+            }
+        }
+
+        // アイテム使用処理
+        TryUseItem(itemName);
+
+        isZooming = false;
+    }
+
     void TryUseItem(string itemName)
     {
+        // まず合成できるかチェック
+        if (ItemCombination.Instance != null)
+        {
+            CombinationRecipe recipe;
+            if (ItemCombination.Instance.CanCombine(itemName, out recipe))
+            {
+                ItemCombination.Instance.CombineItems(itemName);
+                return;
+            }
+        }
+
+        // 次に変換できるかチェック
+        if (CheckCanConvert(itemName))
+        {
+            ExecuteConversion(itemName);
+            return;
+        }
+
+        // 合成も変換もできない場合は通常のアイテム使用
         if (!CheckCanUseItem(itemName))
         {
             if (MessageDisplay.Instance != null)
@@ -186,6 +268,47 @@ public class InventoryUI : MonoBehaviour
                 transformBlock.TransformBlock();
                 Debug.Log("ブロックを変換しました");
                 return;
+            }
+        }
+    }
+
+    bool CheckCanConvert(string itemName)
+    {
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player == null) return false;
+
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(player.transform.position, 2f);
+        foreach (Collider2D col in colliders)
+        {
+            ItemConverter converter = col.GetComponent<ItemConverter>();
+            if (converter != null)
+            {
+                ConversionRecipe recipe;
+                if (converter.CanConvert(itemName, out recipe))
+                    return true;
+            }
+        }
+        return false;
+    }
+
+    void ExecuteConversion(string itemName)
+    {
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player == null) return;
+
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(player.transform.position, 2f);
+        foreach (Collider2D col in colliders)
+        {
+            ItemConverter converter = col.GetComponent<ItemConverter>();
+            if (converter != null)
+            {
+                ConversionRecipe recipe;
+                if (converter.CanConvert(itemName, out recipe))
+                {
+                    converter.ConvertItem(itemName);
+                    Debug.Log("アイテムを変換しました");
+                    return;
+                }
             }
         }
     }
